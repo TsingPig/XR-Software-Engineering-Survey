@@ -1,0 +1,169 @@
+[
+  {
+    "id": "resource-microsoft-mixed-reality-design",
+    "refs": [
+      50
+    ],
+    "title": "Thinking Differently for Mixed Reality",
+    "summary": {
+      "en": "Microsoft case study on sketching, prototyping and adapting the mixed reality design process.",
+      "zh": "微软案例研究，介绍混合现实设计中的草图、原型与设计流程调整。"
+    },
+    "stage": "design",
+    "links": {
+      "project": "https://learn.microsoft.com/en-us/windows/mixed-reality/discover/case-study-expanding-the-design-process-for-mixed-reality"
+    }
+  },
+  {
+    "id": "resource-meta-vr-design-patterns",
+    "refs": [
+      66
+    ],
+    "title": "Lessons from the Frontlines: Modern VR Design Patterns",
+    "summary": {
+      "en": "Meta guidance on VR design patterns for movement, interaction and comfort.",
+      "zh": "Meta 的 VR 设计指南，涵盖移动、交互与舒适性。"
+    },
+    "stage": "design",
+    "links": {
+      "project": "https://developers.meta.com/horizon/blog/lessons-from-the-frontlines-modern-vr-design-patterns/"
+    }
+  },
+  {
+    "id": "resource-meta-haptic-feedback",
+    "refs": [
+      68
+    ],
+    "title": "Meta Haptic Feedback",
+    "summary": {
+      "en": "Developer documentation for vibration feedback through VR controllers.",
+      "zh": "介绍通过 VR 控制器提供振动触觉反馈的开发文档。"
+    },
+    "stage": "design",
+    "links": {
+      "project": "https://developers.meta.com/horizon/documentation/native/pc/dg-input-touch-haptic/"
+    }
+  },
+  {
+    "id": "resource-bezi",
+    "refs": [
+      79
+    ],
+    "title": "Bezi",
+    "summary": {
+      "en": "An AI assistant integrated with Unity projects for debugging, coding and game creation.",
+      "zh": "集成于 Unity 项目的 AI 助手，支持调试、编程与游戏创作。"
+    },
+    "stage": "development",
+    "links": {
+      "project": "https://www.bezi.com/"
+    }
+  },
+  {
+    "id": "resource-unity-muse-sentis",
+    "refs": [
+      80
+    ],
+    "title": "Unity Muse and Unity Sentis",
+    "summary": {
+      "en": "Unity tools for AI-assisted creation and running AI models in applications.",
+      "zh": "Unity 的 AI 辅助创作与应用内 AI 模型运行工具。"
+    },
+    "stage": "development",
+    "links": {
+      "project": "https://unity.com/blog/engine-platform/introducing-unity-muse-and-unity-sentis-ai"
+    }
+  },
+  {
+    "id": "ref-081",
+    "refs": [
+      81
+    ],
+    "title": "Unity AI",
+    "summary": {
+      "en": "Engine-integrated AI assistance for Unity development.",
+      "zh": "集成于 Unity 引擎的 AI 开发辅助。"
+    },
+    "stage": "development",
+    "links": {
+      "project": "https://discussions.unity.com/t/unity-ai-beta-2026-is-here/1703625"
+    }
+  },
+  {
+    "id": "ref-082",
+    "refs": [
+      82,
+      83,
+      84
+    ],
+    "title": "Epic Developer Assistant",
+    "summary": {
+      "en": "AI-assisted guidance for Unreal Engine development.",
+      "zh": "面向虚幻引擎开发的 AI 辅助指导。"
+    },
+    "stage": "development",
+    "links": {
+      "project": "https://dev.epicgames.com/community/assistant/unreal-engine"
+    }
+  },
+  {
+    "id": "ref-085",
+    "refs": [
+      85
+    ],
+    "title": "Scenario Unity Plugin",
+    "summary": {
+      "en": "Integrates AI asset generation into Unity editing workflows.",
+      "zh": "将 AI 资产生成集成到 Unity 编辑流程。"
+    },
+    "stage": "development",
+    "links": {
+      "project": "https://github.com/scenario-labs/Scenario-Unity"
+    }
+  },
+  {
+    "id": "ref-095",
+    "refs": [
+      95
+    ],
+    "title": "WebXR Device API",
+    "summary": {
+      "en": "Standard interfaces for accessing XR devices from web applications.",
+      "zh": "为 Web 应用访问 XR 设备提供标准接口。"
+    },
+    "stage": "development",
+    "links": {
+      "project": "https://www.w3.org/TR/webxr/"
+    }
+  },
+  {
+    "id": "ref-101",
+    "refs": [
+      101
+    ],
+    "title": "Mixed Reality Toolkit for Unity",
+    "summary": {
+      "en": "Reusable components and interaction building blocks for mixed-reality applications.",
+      "zh": "为混合现实应用提供可复用组件与交互模块。"
+    },
+    "stage": "development",
+    "links": {
+      "project": "https://github.com/microsoft/MixedRealityToolkit-Unity"
+    }
+  },
+  {
+    "id": "ref-051",
+    "refs": [
+      51
+    ],
+    "title": "3D User Interfaces: Theory and Practice",
+    "summary": {
+      "en": "A foundational reference on 3D interaction, navigation, user-interface design and evaluation.",
+      "zh": "介绍三维交互、导航、界面设计与评估的基础参考书。"
+    },
+    "stage": "design",
+    "links": {
+      "project": "https://www.pearson.com/en-us/subject-catalog/p/La-Viola-3-D-User-Interfaces-Theory-and-Practice-2nd-Edition/P200000000424"
+    }
+  }
+]

@@ -1,0 +1,367 @@
+{
+  "stages": [
+    {
+      "id": "requirements",
+      "title": {
+        "en": "Requirements & planning",
+        "zh": "需求与规划"
+      },
+      "description": {
+        "en": "Turn user needs and spatial constraints into implementable requirements.",
+        "zh": "将用户需求与空间约束转化为可实现的软件需求。"
+      },
+      "subtopics": [
+        {
+          "id": "elicitation",
+          "en": "Requirement elicitation",
+          "zh": "需求获取"
+        },
+        {
+          "id": "analysis",
+          "en": "Requirement analysis",
+          "zh": "需求分析"
+        },
+        {
+          "id": "specification",
+          "en": "Requirement specification",
+          "zh": "需求规约"
+        },
+        {
+          "id": "validation",
+          "en": "Validation & management",
+          "zh": "需求验证与管理"
+        }
+      ]
+    },
+    {
+      "id": "design",
+      "title": {
+        "en": "Software design",
+        "zh": "软件设计"
+      },
+      "description": {
+        "en": "Design interactions around 3D space, body movement and human comfort.",
+        "zh": "围绕三维空间、身体运动与舒适性设计交互体验。"
+      },
+      "subtopics": [
+        {
+          "id": "sketching",
+          "en": "Sketching",
+          "zh": "草图设计"
+        },
+        {
+          "id": "interaction",
+          "en": "3D interaction",
+          "zh": "三维交互"
+        },
+        {
+          "id": "storyboarding",
+          "en": "Storyboarding",
+          "zh": "故事板"
+        },
+        {
+          "id": "ux",
+          "en": "User experience, comfort & haptics",
+          "zh": "用户体验、舒适性与触觉"
+        }
+      ]
+    },
+    {
+      "id": "development",
+      "title": {
+        "en": "Software development",
+        "zh": "软件开发"
+      },
+      "description": {
+        "en": "Build scenes, assets and interaction logic inside immersive development workflows.",
+        "zh": "在沉浸式开发流程中构建场景、资产与交互逻辑。"
+      },
+      "subtopics": [
+        {
+          "id": "environments",
+          "en": "Frameworks & immersive environments",
+          "zh": "框架与沉浸式开发环境"
+        },
+        {
+          "id": "interaction",
+          "en": "Interaction implementation",
+          "zh": "交互实现"
+        },
+        {
+          "id": "performance",
+          "en": "Performance, QoS & QoE",
+          "zh": "性能、服务质量与体验质量"
+        }
+      ]
+    },
+    {
+      "id": "testing",
+      "title": {
+        "en": "Software testing",
+        "zh": "软件测试"
+      },
+      "description": {
+        "en": "Explore scenes and test functional behavior, visual quality and usability.",
+        "zh": "探索场景，检验功能行为、视觉质量与可用性。"
+      },
+      "subtopics": [
+        {
+          "id": "bugs",
+          "en": "Bugs & test smells",
+          "zh": "缺陷与测试异味"
+        },
+        {
+          "id": "functional",
+          "en": "Functional testing",
+          "zh": "功能测试"
+        },
+        {
+          "id": "gui",
+          "en": "GUI & visual testing",
+          "zh": "界面与视觉测试"
+        },
+        {
+          "id": "usability",
+          "en": "Usability testing",
+          "zh": "可用性测试"
+        },
+        {
+          "id": "security",
+          "en": "Security testing",
+          "zh": "安全测试"
+        },
+        {
+          "id": "tools",
+          "en": "Testing tools",
+          "zh": "测试工具"
+        }
+      ]
+    },
+    {
+      "id": "deployment",
+      "title": {
+        "en": "Software deployment",
+        "zh": "软件部署"
+      },
+      "description": {
+        "en": "Distribute XR software and protect immersive interfaces and behavioral data.",
+        "zh": "分发 XR 软件，保护沉浸式界面与行为数据。"
+      },
+      "subtopics": [
+        {
+          "id": "platforms",
+          "en": "Distribution platforms",
+          "zh": "分发平台"
+        },
+        {
+          "id": "updates",
+          "en": "Version control & updates",
+          "zh": "版本控制与更新"
+        },
+        {
+          "id": "interface-security",
+          "en": "Immersive interface security",
+          "zh": "沉浸式界面安全"
+        },
+        {
+          "id": "privacy",
+          "en": "Privacy & side channels",
+          "zh": "隐私与侧信道"
+        },
+        {
+          "id": "empirical",
+          "en": "Empirical security studies",
+          "zh": "安全实证研究"
+        }
+      ]
+    },
+    {
+      "id": "maintenance",
+      "title": {
+        "en": "Maintenance & updates",
+        "zh": "维护与更新"
+      },
+      "description": {
+        "en": "Improve software across source code, 3D assets and engine configurations.",
+        "zh": "协同改进源代码、三维资产与引擎配置。"
+      },
+      "subtopics": [
+        {
+          "id": "refactoring",
+          "en": "Improvement, repair & refactoring",
+          "zh": "改进、修复与重构"
+        },
+        {
+          "id": "adaptation",
+          "en": "Technology adaptation & engagement",
+          "zh": "技术适配与用户参与"
+        }
+      ]
+    },
+    {
+      "id": "evaluation",
+      "title": {
+        "en": "Evaluation & feedback",
+        "zh": "评估与反馈"
+      },
+      "description": {
+        "en": "Connect runtime quality, user experience and developer feedback.",
+        "zh": "连接运行质量、用户体验与开发者反馈。"
+      },
+      "subtopics": [
+        {
+          "id": "runtime",
+          "en": "Runtime performance",
+          "zh": "运行性能"
+        },
+        {
+          "id": "experience",
+          "en": "User satisfaction & experience",
+          "zh": "用户满意度与体验"
+        },
+        {
+          "id": "reviews",
+          "en": "User review analysis",
+          "zh": "用户评论分析"
+        },
+        {
+          "id": "developers",
+          "en": "Developer feedback",
+          "zh": "开发者反馈"
+        }
+      ]
+    },
+    {
+      "id": "related",
+      "title": {
+        "en": "Related surveys",
+        "zh": "相关综述"
+      },
+      "description": {
+        "en": "Surveys connecting XR applications, software engineering and immersive systems.",
+        "zh": "连接 XR 应用、软件工程与沉浸式系统的相关综述。"
+      },
+      "subtopics": [
+        {
+          "id": "surveys",
+          "en": "Surveys & foundations",
+          "zh": "综述与基础研究"
+        }
+      ]
+    }
+  ],
+  "insights": [
+    {
+      "id": "spatial",
+      "title": {
+        "en": "Spatial interaction reshapes engineering.",
+        "zh": "空间交互重塑工程方法。"
+      },
+      "short": {
+        "en": "Spatial interaction",
+        "zh": "空间交互"
+      },
+      "description": {
+        "en": "Six degrees of freedom, embodied input and comfort connect interface design to scene exploration and quality assurance.",
+        "zh": "六自由度、具身输入与舒适性，将界面设计、场景探索和质量保证连接起来。"
+      },
+      "figure": "spatial-design.webp",
+      "figure_alt": {
+        "en": "Egocentric and exocentric 3D interaction techniques, Figure 8 of the survey",
+        "zh": "综述图 8，以自我为中心和外部视角的三维交互技术"
+      },
+      "featured": [
+        "ref-104",
+        "ref-107"
+      ]
+    },
+    {
+      "id": "ai",
+      "title": {
+        "en": "AI assistance moves into the engine.",
+        "zh": "AI 辅助深入引擎与项目上下文。"
+      },
+      "short": {
+        "en": "AI-assisted development",
+        "zh": "AI 辅助开发"
+      },
+      "description": {
+        "en": "Assistance spans scenes, assets, interaction logic and engine settings, making project context central to XR development.",
+        "zh": "辅助范围延伸至场景、资产、交互逻辑和引擎设置，项目上下文成为 XR 开发的重要组成。"
+      },
+      "figure": "engine-ai.webp",
+      "figure_alt": {
+        "en": "From code-centric AI to project-aware XR engine assistance, Figure 13 of the survey",
+        "zh": "综述图 13，从代码中心 AI 到感知项目上下文的 XR 引擎辅助"
+      },
+      "featured": [
+        "ref-075",
+        "ref-077"
+      ]
+    },
+    {
+      "id": "security",
+      "title": {
+        "en": "Immersion changes the attack surface.",
+        "zh": "沉浸式交互改变攻击面。"
+      },
+      "short": {
+        "en": "Security & privacy",
+        "zh": "安全与隐私"
+      },
+      "description": {
+        "en": "Spatial interfaces and motion tracking connect software security to user perception, behavior and identity.",
+        "zh": "空间界面与运动追踪，使软件安全与用户感知、行为和身份紧密相连。"
+      },
+      "figure": "security-privacy.webp",
+      "figure_alt": {
+        "en": "Security and privacy research across VR/AR software deployment",
+        "zh": "VR/AR 软件部署中的安全与隐私研究"
+      },
+      "featured": [
+        "ref-117",
+        "ref-135"
+      ]
+    },
+    {
+      "id": "maintenance",
+      "title": {
+        "en": "Maintenance crosses artifact boundaries.",
+        "zh": "维护跨越代码、资产与配置。"
+      },
+      "short": {
+        "en": "Cross-artifact maintenance",
+        "zh": "跨工件维护"
+      },
+      "description": {
+        "en": "Performance problems and bad smells often require coordinated changes to scripts, 3D assets and engine configuration.",
+        "zh": "性能问题与代码异味的修复，常常需要协同修改脚本、三维资产与引擎配置。"
+      },
+      "visual": "maintenance",
+      "featured": [
+        "ref-094",
+        "ref-123"
+      ]
+    },
+    {
+      "id": "evaluation",
+      "title": {
+        "en": "Feedback connects quality to experience.",
+        "zh": "反馈连接软件质量与用户体验。"
+      },
+      "short": {
+        "en": "Evaluation & opportunities",
+        "zh": "评估与研究机会"
+      },
+      "description": {
+        "en": "Runtime measurements, experience studies and developer feedback create opportunities for scalable, human-centered quality assurance.",
+        "zh": "运行测量、体验研究与开发者反馈，为可扩展、以人为中心的质量保证提供研究方向。"
+      },
+      "visual": "evaluation",
+      "featured": [
+        "ref-157",
+        "ref-155"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3341 @@
+[
+  {
+    "id": "ref-143",
+    "refs": [
+      143
+    ],
+    "title": "From Perception to Protection: A Developer-Centered Study of Security and Privacy Threats in Extended Reality (XR)",
+    "authors": "K. Cai, J. Zhang, Y. Li, Z. Wang, X. Chen, T. Li, and Y. Tian",
+    "year": 2026,
+    "venue": "NDSS",
+    "summary": {
+      "en": "Studies XR developers' threat awareness and mitigation practices to guide developer-centered security support.",
+      "zh": "研究 XR 开发者的威胁认知与缓解实践，为面向开发者的安全支持提供依据。"
+    },
+    "categories": [
+      {
+        "stage": "deployment",
+        "subtopic": "empirical"
+      },
+      {
+        "stage": "evaluation",
+        "subtopic": "developers"
+      }
+    ],
+    "insights": [
+      "security",
+      "evaluation"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.14722/ndss.2026.230807",
+      "paper": "https://doi.org/10.14722/ndss.2026.230807"
+    }
+  },
+  {
+    "id": "ref-116",
+    "refs": [
+      116
+    ],
+    "title": "Harnessing large language models for virtual reality exploration testing: a case study",
+    "authors": "Z. Qi, H. Li, H. Qin, K. Peng, S. He, and X. Qin",
+    "year": 2026,
+    "venue": "Automated Software Engineering",
+    "summary": {
+      "en": "Evaluates LLM entity detection, feature descriptions and spatial reasoning for black-box VR exploration testing.",
+      "zh": "评估大模型在黑盒 VR 探索测试中的实体检测、特征描述与空间推理能力。"
+    },
+    "categories": [
+      {
+        "stage": "testing",
+        "subtopic": "tools"
+      }
+    ],
+    "insights": [
+      "spatial",
+      "ai",
+      "evaluation"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1007/s10515-025-00535-3",
+      "code": "https://github.com/qzydustin/LLM4VR",
+      "paper": "https://doi.org/10.1007/s10515-025-00535-3"
+    }
+  },
+  {
+    "id": "ref-119",
+    "refs": [
+      119
+    ],
+    "title": "Vetting Privacy Policies in Virtual Reality Platforms With Longitudinal Analysis",
+    "authors": "Y. Meng, Y. Huo, Y. Zhan, L. Zhou, L. Ma, G. Chen, Q. Pei, and H. Zhu",
+    "year": 2026,
+    "venue": "IEEE Transactions on Networking",
+    "summary": {
+      "en": "Tracks VR platform privacy policies over time to analyze policy quality and longitudinal changes.",
+      "zh": "纵向追踪 VR 平台隐私政策，分析政策质量及其变化。"
+    },
+    "categories": [
+      {
+        "stage": "deployment",
+        "subtopic": "platforms"
+      },
+      {
+        "stage": "deployment",
+        "subtopic": "privacy"
+      }
+    ],
+    "insights": [
+      "security"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1109/TON.2025.3618730",
+      "paper": "https://doi.org/10.1109/TON.2025.3618730"
+    }
+  },
+  {
+    "id": "ref-123",
+    "refs": [
+      123
+    ],
+    "title": "XRFix: Exploring Performance Bug Repair of Extended Reality Applications with Large Language Models",
+    "authors": "J. Wu, H. Guo, H. Dai, and X. Luo",
+    "year": 2026,
+    "venue": "ICSE",
+    "summary": {
+      "en": "Introduces XRFix to generate and validate performance-bug repairs for XR applications with LLMs.",
+      "zh": "提出 XRFix，利用大模型生成并验证 XR 应用的性能缺陷修复。"
+    },
+    "categories": [
+      {
+        "stage": "deployment",
+        "subtopic": "updates"
+      },
+      {
+        "stage": "maintenance",
+        "subtopic": "refactoring"
+      }
+    ],
+    "insights": [
+      "ai",
+      "maintenance"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1145/3744916.3773120",
+      "paper": "https://doi.org/10.1145/3744916.3773120",
+      "arxiv": "https://arxiv.org/abs/2608.21718",
+      "code": "https://github.com/wwwjwww/XRFix"
+    }
+  },
+  {
+    "id": "ref-100",
+    "refs": [
+      100
+    ],
+    "title": "A Test Automation Framework for User Interaction in Extended Reality Applications",
+    "authors": "R. Gu and J. M. Rojas",
+    "year": 2025,
+    "venue": "ASE Workshops",
+    "summary": {
+      "en": "Introduces INTENXION APIs to simulate compositional XR interactions and assert expected outcomes.",
+      "zh": "提出 INTENXION，通过 API 模拟组合式 XR 交互并断言预期结果。"
+    },
+    "categories": [
+      {
+        "stage": "testing",
+        "subtopic": "functional"
+      }
+    ],
+    "insights": [
+      "spatial"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1109/ASEW67777.2025.00066",
+      "paper": "https://doi.org/10.1109/ASEW67777.2025.00066"
+    }
+  },
+  {
+    "id": "ref-142",
+    "refs": [
+      142
+    ],
+    "title": "An Empirical Study on Meta Virtual Reality Applications: Security and Privacy Perspectives",
+    "authors": "H. Guo, H. Dai, X. Luo, G. Xu, F. He, and Z. Zheng",
+    "year": 2025,
+    "venue": "IEEE TSE",
+    "summary": {
+      "en": "Combines static, third-party-library, privacy-policy and user-review analysis to audit Meta VR applications.",
+      "zh": "结合静态、第三方库、隐私政策与用户评论分析，审计 Meta VR 应用。"
+    },
+    "categories": [
+      {
+        "stage": "deployment",
+        "subtopic": "empirical"
+      }
+    ],
+    "insights": [
+      "security"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1109/TSE.2025.3553283",
+      "paper": "https://doi.org/10.1109/TSE.2025.3553283"
+    }
+  },
+  {
+    "id": "ref-144",
+    "refs": [
+      144
+    ],
+    "title": "AUTOVR: Automated UI Exploration for Detecting Sensitive Data Flow Exposures in Virtual Reality Apps",
+    "authors": "J. Y. Kim, C. Zuo, Y. Zhao, and Z. Lin",
+    "year": 2025,
+    "venue": "USENIX Security",
+    "summary": {
+      "en": "Introduces AUTOVR to explore Unity VR interfaces and expose sensitive data flows through hidden events.",
+      "zh": "提出 AUTOVR，探索 Unity VR 界面，通过隐藏事件揭示敏感数据流。"
+    },
+    "categories": [
+      {
+        "stage": "deployment",
+        "subtopic": "empirical"
+      }
+    ],
+    "insights": [
+      "security",
+      "spatial"
+    ],
+    "links": {
+      "paper": "https://www.usenix.org/conference/usenixsecurity25/presentation/kim-john",
+      "arxiv": "https://arxiv.org/abs/2508.12187",
+      "code": "https://github.com/OSUSecLab/AutoVR"
+    }
+  },
+  {
+    "id": "ref-074",
+    "refs": [
+      74
+    ],
+    "title": "Code Refactoring in Virtual Reality",
+    "authors": "M. Giannaccari, M. Raglianti, and M. Lanza",
+    "year": 2025,
+    "venue": "IDE @ ICSE",
+    "summary": {
+      "en": "Explores code refactoring inside VR through spatial program visualization and controller interactions.",
+      "zh": "通过空间程序可视化与控制器交互，探索在 VR 中执行代码重构。"
+    },
+    "categories": [
+      {
+        "stage": "development",
+        "subtopic": "environments"
+      }
+    ],
+    "insights": [
+      "spatial",
+      "maintenance"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1109/IDE66625.2025.00006",
+      "doi": "https://doi.org/10.1109/IDE66625.2025.00006"
+    }
+  },
+  {
+    "id": "ref-155",
+    "refs": [
+      155
+    ],
+    "title": "CreepyCoCreator? Investigating AI Representation Modes for 3D Object Co-Creation in Virtual Reality",
+    "authors": "J. Rasch, J. Töws, T. Hirzle, F. Müller, and M. Schmitz",
+    "year": 2025,
+    "venue": "CHI",
+    "summary": {
+      "en": "Studies how embodied AI representation shapes engagement, ownership and partnership in VR object co-creation.",
+      "zh": "研究具身 AI 的呈现方式如何影响 VR 物体共创中的参与感、所有权与伙伴感。"
+    },
+    "categories": [
+      {
+        "stage": "maintenance",
+        "subtopic": "adaptation"
+      }
+    ],
+    "insights": [
+      "ai",
+      "maintenance",
+      "evaluation"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1145/3706598.3713720",
+      "paper": "https://doi.org/10.1145/3706598.3713720"
+    }
+  },
+  {
+    "id": "ref-154",
+    "refs": [
+      154
+    ],
+    "title": "Dreamcrafter: Immersive Editing of 3D Radiance Fields Through Flexible, Generative Inputs and Outputs",
+    "authors": "C. Vachha, Y. Kang, Z. Dive, A. Chidambaram, A. Gupta, E. Jun, and B. Hartmann",
+    "year": 2025,
+    "venue": "CHI",
+    "summary": {
+      "en": "Unifies direct manipulation and generative inputs for iterative editing of immersive 3D radiance fields.",
+      "zh": "结合直接操控与生成式输入，迭代编辑沉浸式三维辐射场。"
+    },
+    "categories": [
+      {
+        "stage": "maintenance",
+        "subtopic": "adaptation"
+      }
+    ],
+    "insights": [
+      "ai",
+      "maintenance",
+      "spatial"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1145/3706598.3714312",
+      "paper": "https://doi.org/10.1145/3706598.3714312",
+      "arxiv": "https://arxiv.org/abs/2512.20129",
+      "project": "https://dream-crafter.github.io/"
+    }
+  },
+  {
+    "id": "ref-053",
+    "refs": [
+      53
+    ],
+    "title": "Exploring the Design Space of Privacy-Driven Adaptation Techniques for Future Augmented Reality Interfaces",
+    "authors": "S. Rajaram, M. Peralta, J. G. Johnson, and M. Nebeling",
+    "year": 2025,
+    "venue": "CHI",
+    "summary": {
+      "en": "Explores interface adaptation techniques that respond to privacy needs in AR.",
+      "zh": "探索响应 AR 隐私需求的界面自适应技术。"
+    },
+    "categories": [
+      {
+        "stage": "design",
+        "subtopic": "interaction"
+      }
+    ],
+    "insights": [
+      "spatial",
+      "security"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1145/3706598.3713320",
+      "doi": "https://doi.org/10.1145/3706598.3713320"
+    }
+  },
+  {
+    "id": "ref-157",
+    "refs": [
+      157
+    ],
+    "title": "Extended Reality Cybersickness Assessment via User Review Analysis",
+    "authors": "S. Li, Q. Zheng, C. Gao, J. Feng, and M. R. Lyu",
+    "year": 2025,
+    "venue": "ISSTA",
+    "summary": {
+      "en": "Introduces XRCare to assess cybersickness through LLM-driven analysis of XR app reviews.",
+      "zh": "提出 XRCare，利用大模型分析 XR 应用评论，评估晕动症。"
+    },
+    "categories": [
+      {
+        "stage": "evaluation",
+        "subtopic": "experience"
+      },
+      {
+        "stage": "evaluation",
+        "subtopic": "reviews"
+      }
+    ],
+    "insights": [
+      "ai",
+      "evaluation"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1145/3728933",
+      "paper": "https://doi.org/10.1145/3728933"
+    }
+  },
+  {
+    "id": "ref-075",
+    "refs": [
+      75
+    ],
+    "title": "GaussianShopVR: Facilitating Immersive 3D Authoring Using Gaussian Splatting in VR",
+    "authors": "Y. Shen, B. Li, J. Huang, D. Yip, and Z. Wang",
+    "year": 2025,
+    "venue": "UIST",
+    "summary": {
+      "en": "Supports immersive editing and authoring of 3D Gaussian splatting content in VR.",
+      "zh": "支持在 VR 中沉浸式编辑与创作三维高斯泼溅内容。"
+    },
+    "categories": [
+      {
+        "stage": "development",
+        "subtopic": "environments"
+      }
+    ],
+    "insights": [
+      "spatial",
+      "ai"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1145/3746059.3747803",
+      "doi": "https://doi.org/10.1145/3746059.3747803"
+    }
+  },
+  {
+    "id": "ref-077",
+    "refs": [
+      77
+    ],
+    "title": "ImaginateAR: AI-Assisted In-Situ Authoring in Augmented Reality",
+    "authors": "J. Lee, F. Aleotti, D. Mazala, G. Garcia-Hernando, S. Vicente, O. J. Johnston, I. Kraus-Liang, J. Powierza, D. Shin, J. E. Froehlich, G. Brostow, and J. Van Brummelen",
+    "year": 2025,
+    "venue": "UIST",
+    "summary": {
+      "en": "Combines scene understanding, generated 3D assets and speech interaction for in-situ AR authoring.",
+      "zh": "结合场景理解、三维资产生成与语音交互，支持原位 AR 创作。"
+    },
+    "categories": [
+      {
+        "stage": "development",
+        "subtopic": "environments"
+      },
+      {
+        "stage": "development",
+        "subtopic": "interaction"
+      }
+    ],
+    "insights": [
+      "spatial",
+      "ai"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1145/3746059.3747635",
+      "doi": "https://doi.org/10.1145/3746059.3747635",
+      "arxiv": "https://arxiv.org/abs/2504.21360"
+    }
+  },
+  {
+    "id": "ref-138",
+    "refs": [
+      138
+    ],
+    "title": "PipID: Light-Pupillary Response Based User Authentication for Virtual Reality",
+    "authors": "M. Pan, Y. Meng, Y. Zhan, G. Chen, and H. Zhu",
+    "year": 2025,
+    "venue": "CCS",
+    "summary": {
+      "en": "Uses light-induced pupillary responses to authenticate users within VR headsets.",
+      "zh": "利用光诱发瞳孔响应，在 VR 头显中实现用户身份认证。"
+    },
+    "categories": [
+      {
+        "stage": "deployment",
+        "subtopic": "interface-security"
+      },
+      {
+        "stage": "deployment",
+        "subtopic": "privacy"
+      }
+    ],
+    "insights": [
+      "security"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1145/3719027.3744850",
+      "paper": "https://doi.org/10.1145/3719027.3744850"
+    }
+  },
+  {
+    "id": "ref-145",
+    "refs": [
+      145
+    ],
+    "title": "Principled and Automated Approach for Investigating AR/VR Attacks",
+    "authors": "M. Shoaib, A. Suh, and W. U. Hassan",
+    "year": 2025,
+    "venue": "USENIX Security",
+    "summary": {
+      "en": "Builds AR/VR-aware provenance graphs to investigate attacks and reconstruct their causes and impacts.",
+      "zh": "构建感知 AR/VR 特性的溯源图，调查攻击并重建其成因与影响。"
+    },
+    "categories": [
+      {
+        "stage": "deployment",
+        "subtopic": "empirical"
+      }
+    ],
+    "insights": [
+      "security"
+    ],
+    "links": {
+      "paper": "https://www.usenix.org/conference/usenixsecurity25/presentation/shoaib"
+    }
+  },
+  {
+    "id": "ref-076",
+    "refs": [
+      76
+    ],
+    "title": "RealityCrafter: User-guided Editable 3D Scene Generation from a Single Image in Mixed Reality",
+    "authors": "S. Kim, D. Kim, T. Son, and W. Woo",
+    "year": 2025,
+    "venue": "UIST Adjunct",
+    "summary": {
+      "en": "Generates editable mixed reality scenes from one image with user guidance.",
+      "zh": "在用户引导下，从单张图像生成可编辑的混合现实场景。"
+    },
+    "categories": [
+      {
+        "stage": "development",
+        "subtopic": "environments"
+      },
+      {
+        "stage": "development",
+        "subtopic": "interaction"
+      }
+    ],
+    "insights": [
+      "spatial",
+      "ai"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1145/3746058.3758405",
+      "doi": "https://doi.org/10.1145/3746058.3758405"
+    }
+  },
+  {
+    "id": "ref-078",
+    "refs": [
+      78
+    ],
+    "title": "RemapVR: An Immersive Authoring Tool for Rapid Prototyping of Remapped Interaction in VR",
+    "authors": "T. Luo, T. Wu, C. Jiang, X. Duan, J. Lv, N. Li, Y. Fan, T. Han, and F. Tian",
+    "year": 2025,
+    "venue": "CHI",
+    "summary": {
+      "en": "Provides an immersive authoring tool for prototyping and inspecting remapped VR interactions.",
+      "zh": "提供沉浸式创作工具，用于原型设计与检查 VR 重映射交互。"
+    },
+    "categories": [
+      {
+        "stage": "development",
+        "subtopic": "environments"
+      },
+      {
+        "stage": "development",
+        "subtopic": "interaction"
+      }
+    ],
+    "insights": [
+      "spatial"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1145/3706598.3714201",
+      "doi": "https://doi.org/10.1145/3706598.3714201"
+    }
+  },
+  {
+    "id": "ref-125",
+    "refs": [
+      125
+    ],
+    "title": "SecCityVR: Visualization and Collaborative Exploration of Software Vulnerabilities in Virtual Reality",
+    "authors": "D. Wüppelmann and E. Yigitbas",
+    "year": 2025,
+    "venue": "EASE",
+    "summary": {
+      "en": "Uses a collaborative VR city visualization to explore software vulnerabilities and their relationships.",
+      "zh": "通过协作式 VR 城市可视化，探索软件漏洞及其关联。"
+    },
+    "categories": [
+      {
+        "stage": "deployment",
+        "subtopic": "interface-security"
+      }
+    ],
+    "insights": [
+      "security",
+      "spatial"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1145/3756681.3756939",
+      "paper": "https://doi.org/10.1145/3756681.3756939"
+    }
+  },
+  {
+    "id": "ref-131",
+    "refs": [
+      131
+    ],
+    "title": "Shadowed Realities: An Investigation of UI Attacks in WebXR",
+    "authors": "C. Mukherjee, R. Mohamed, A. Arunasalam, H. Farrukh, and Z. B. Celik",
+    "year": 2025,
+    "venue": "USENIX Security",
+    "summary": {
+      "en": "Analyzes WebXR UI attacks and measures how dark designs influence immersive user behavior.",
+      "zh": "分析 WebXR 界面攻击，并测量暗黑设计对沉浸式用户行为的影响。"
+    },
+    "categories": [
+      {
+        "stage": "deployment",
+        "subtopic": "interface-security"
+      }
+    ],
+    "insights": [
+      "security",
+      "spatial",
+      "evaluation"
+    ],
+    "links": {
+      "paper": "https://www.usenix.org/conference/usenixsecurity25/presentation/mukherjee"
+    }
+  },
+  {
+    "id": "ref-124",
+    "refs": [
+      124
+    ],
+    "title": "SoK: Come Together – Unifying Security, Information Theory, and Cognition for a Mixed Reality Deception Attack Ontology & Analysis Framework",
+    "authors": "A. Teymourian, A. M. Webb, T. Gharaibeh, A. Ghildiyal, and I. Baggili",
+    "year": 2025,
+    "venue": "USENIX Security",
+    "summary": {
+      "en": "Unifies security, information theory and cognition in an ontology and analysis framework for MR deception attacks.",
+      "zh": "结合安全、信息论与认知，建立混合现实欺骗攻击的本体与分析框架。"
+    },
+    "categories": [
+      {
+        "stage": "deployment",
+        "subtopic": "interface-security"
+      }
+    ],
+    "insights": [
+      "security",
+      "spatial"
+    ],
+    "links": {
+      "paper": "https://www.usenix.org/conference/usenixsecurity25/presentation/teymourian"
+    }
+  },
+  {
+    "id": "ref-122",
+    "refs": [
+      122
+    ],
+    "title": "Virtual Reality, Real Problems: A Longitudinal Security Analysis of VR Firmware",
+    "authors": "V. S. Simhadri, Y. Xiong, H. Farrukh, and X. Zhang",
+    "year": 2025,
+    "venue": "CCS",
+    "summary": {
+      "en": "Tracks VR firmware evolution to identify security weaknesses and the persistence of vulnerable components.",
+      "zh": "追踪 VR 固件演进，识别安全弱点与易受攻击组件的持续存在。"
+    },
+    "categories": [
+      {
+        "stage": "deployment",
+        "subtopic": "updates"
+      }
+    ],
+    "insights": [
+      "security",
+      "maintenance"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1145/3719027.3765102",
+      "paper": "https://doi.org/10.1145/3719027.3765102"
+    }
+  },
+  {
+    "id": "ref-029",
+    "refs": [
+      29
+    ],
+    "title": "VReqST: A Requirement Specification Tool for Virtual Reality Software Products",
+    "authors": "S. A. Karre, A. A. Halhalli, and Y. R. Reddy",
+    "year": 2025,
+    "venue": "ICSE Companion",
+    "summary": {
+      "en": "Provides a requirements specification tool tailored to VR software products.",
+      "zh": "提供面向 VR 软件产品的需求规约工具。"
+    },
+    "categories": [
+      {
+        "stage": "requirements",
+        "subtopic": "specification"
+      }
+    ],
+    "insights": [
+      "spatial"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1109/ICSE-Companion66252.2025.00012",
+      "doi": "https://doi.org/10.1109/ICSE-Companion66252.2025.00012"
+    }
+  },
+  {
+    "id": "ref-104",
+    "refs": [
+      104
+    ],
+    "title": "VRExplorer: A Model-based Approach for Semi-Automated Testing of Virtual Reality Scenes",
+    "authors": "Z. Zhu, H. Dai, H. Guo, Z. Liao, and Z. Zheng",
+    "year": 2025,
+    "venue": "ASE",
+    "summary": {
+      "en": "Models entities, actions and tasks to guide navigation and diverse interactions during VR testing.",
+      "zh": "建模实体、动作与任务，引导 VR 测试中的导航与多类型交互。"
+    },
+    "categories": [
+      {
+        "stage": "testing",
+        "subtopic": "gui"
+      }
+    ],
+    "insights": [
+      "spatial"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1109/ASE63991.2025.00047",
+      "arxiv": "https://arxiv.org/abs/2607.10174",
+      "paper": "https://doi.org/10.1109/ASE63991.2025.00047",
+      "code": "https://github.com/TsingPig/VRExplorer_Release"
+    }
+  },
+  {
+    "id": "ref-097",
+    "refs": [
+      97
+    ],
+    "title": "VRTestSniffer: Test Smell Detector for Virtual Reality (VR) Software Projects",
+    "authors": "F. Gurramkonda, A. Chakroborty, B. Maxim, M. W. Mkaouer, and F. Hassan",
+    "year": 2025,
+    "venue": "ASE",
+    "summary": {
+      "en": "Detects VR-specific test smells using syntax, control-flow and data-flow analysis of Unity tests.",
+      "zh": "通过语法、控制流与数据流分析，检测 Unity 测试中的 VR 特有测试异味。"
+    },
+    "categories": [
+      {
+        "stage": "testing",
+        "subtopic": "bugs"
+      }
+    ],
+    "insights": [
+      "maintenance"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1109/ASE63991.2025.00163",
+      "paper": "https://doi.org/10.1109/ASE63991.2025.00163",
+      "code": "https://github.com/smilevo/VRTestSniffer"
+    }
+  },
+  {
+    "id": "ref-056",
+    "refs": [
+      56
+    ],
+    "title": "A Novel Approach to 3D Storyboarding",
+    "authors": "F. Manuri, A. Sanna, M. Scarzello, and F. De Pace",
+    "year": 2024,
+    "venue": "INTETAIN",
+    "summary": {
+      "en": "Creates storyboards from 3D scenes, actor actions, camera settings and generated scene descriptions.",
+      "zh": "根据三维场景、角色动作与相机设置生成故事板及场景描述。"
+    },
+    "categories": [
+      {
+        "stage": "design",
+        "subtopic": "storyboarding"
+      }
+    ],
+    "insights": [
+      "spatial"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1007/978-3-031-55722-4_13",
+      "doi": "https://doi.org/10.1007/978-3-031-55722-4_13"
+    }
+  },
+  {
+    "id": "ref-141",
+    "refs": [
+      141
+    ],
+    "title": "An Empirical Study on Oculus Virtual Reality Applications: Security and Privacy Perspectives",
+    "authors": "H. Guo, H. Dai, X. Luo, Z. Zheng, G. Xu, and F. He",
+    "year": 2024,
+    "venue": "ICSE",
+    "summary": {
+      "en": "Combines application analysis and privacy-policy inspection to assess security and privacy in Oculus VR apps.",
+      "zh": "结合应用分析与隐私政策检查，评估 Oculus VR 应用的安全和隐私。"
+    },
+    "categories": [
+      {
+        "stage": "deployment",
+        "subtopic": "empirical"
+      }
+    ],
+    "insights": [
+      "security"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1145/3597503.3639082",
+      "paper": "https://doi.org/10.1145/3597503.3639082"
+    }
+  },
+  {
+    "id": "ref-090",
+    "refs": [
+      90
+    ],
+    "title": "Content format and quality of experience in virtual reality",
+    "authors": "H. G. Debarba, M. Montagud, S. Chagué, J. G. Herrero, I. Lacosta, S. F. Langa, and C. Charbonnier",
+    "year": 2024,
+    "venue": "Multimedia Tools and Applications",
+    "summary": {
+      "en": "Examines how VR content formats influence the quality of immersive viewing experiences.",
+      "zh": "考察 VR 内容格式对沉浸式观看体验质量的影响。"
+    },
+    "categories": [
+      {
+        "stage": "development",
+        "subtopic": "performance"
+      },
+      {
+        "stage": "evaluation",
+        "subtopic": "experience"
+      }
+    ],
+    "insights": [
+      "evaluation"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1007/s11042-022-12176-9",
+      "paper": "https://doi.org/10.1007/s11042-022-12176-9"
+    }
+  },
+  {
+    "id": "ref-020",
+    "refs": [
+      20
+    ],
+    "title": "EStatiG: Wearable Haptic Feedback with Multi-Phalanx Electrostatic Brake for Enhanced Object Perception in VR",
+    "authors": "N. Vanichvoranun, H. Lee, S. Kim, and S. H. Yoon",
+    "year": 2024,
+    "venue": "ACM IMWUT",
+    "summary": {
+      "en": "Uses a multi-phalanx electrostatic brake to provide wearable haptic feedback for perceiving virtual objects.",
+      "zh": "通过多指节静电制动器提供可穿戴触觉反馈，增强虚拟物体感知。"
+    },
+    "categories": [
+      {
+        "stage": "requirements",
+        "subtopic": "elicitation"
+      }
+    ],
+    "insights": [
+      "spatial"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1145/3678567",
+      "doi": "https://doi.org/10.1145/3678567"
+    }
+  },
+  {
+    "id": "ref-023",
+    "refs": [
+      23
+    ],
+    "title": "Examining Psychological Conflict-Handling Strategies for Highly Automated Vehicles to Resolve Legal User-Vehicle Conflicts",
+    "authors": "A. Stampf, M. Colley, A. Knuth, C. Tasci, and E. Rukzio",
+    "year": 2024,
+    "venue": "ACM IMWUT",
+    "summary": {
+      "en": "Studies persuasive conflict-handling strategies in a VR driving simulator for highly automated vehicles.",
+      "zh": "通过 VR 驾驶模拟研究高度自动驾驶车辆的说服型冲突处理策略。"
+    },
+    "categories": [
+      {
+        "stage": "requirements",
+        "subtopic": "analysis"
+      }
+    ],
+    "insights": [
+      "spatial",
+      "evaluation"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1145/3678511",
+      "doi": "https://doi.org/10.1145/3678511"
+    }
+  },
+  {
+    "id": "ref-021",
+    "refs": [
+      21
+    ],
+    "title": "Gamification of virtual museum curation: a case study of Chinese bronze wares",
+    "authors": "Z. Li, Q. Zhang, J. Xu, C. Li, and X. Yang",
+    "year": 2024,
+    "venue": "Heritage Science",
+    "summary": {
+      "en": "Combines scanned bronze artifacts, immersive museum scenes and games to support cultural learning.",
+      "zh": "结合青铜器扫描模型、沉浸式博物馆场景与游戏，支持文化知识学习。"
+    },
+    "categories": [
+      {
+        "stage": "requirements",
+        "subtopic": "elicitation"
+      }
+    ],
+    "insights": [
+      "spatial",
+      "evaluation"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1186/s40494-024-01464-2",
+      "doi": "https://doi.org/10.1186/s40494-024-01464-2"
+    }
+  },
+  {
+    "id": "ref-114",
+    "refs": [
+      114
+    ],
+    "title": "Grounded GUI Understanding for Vision Based Spatial Intelligent Agent: Exemplified by Virtual Reality Apps",
+    "authors": "S. Li, B. Li, Y. Liu, C. Gao, J. Zhang, S. Cheung, and M. R. Lyu",
+    "year": 2024,
+    "venue": "arXiv",
+    "summary": {
+      "en": "Introduces Orienter to ground context-sensitive interactable GUI elements in VR scenes with multimodal models.",
+      "zh": "提出 Orienter，利用多模态模型识别 VR 场景中与上下文相关的可交互界面元素。"
+    },
+    "categories": [
+      {
+        "stage": "testing",
+        "subtopic": "tools"
+      }
+    ],
+    "insights": [
+      "spatial",
+      "ai"
+    ],
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2409.10811",
+      "paper": "https://arxiv.org/abs/2409.10811"
+    }
+  },
+  {
+    "id": "ref-018",
+    "refs": [
+      18
+    ],
+    "title": "HapticPilot: Authoring In-situ Hand Posture-Adaptive Vibrotactile Feedback for Virtual Reality",
+    "authors": "Y. Sung, R. Kim, K. W. Song, Y. Shao, and S. H. Yoon",
+    "year": 2024,
+    "venue": "ACM IMWUT",
+    "summary": {
+      "en": "Supports authoring hand-posture-adaptive vibrotactile feedback for VR interactions.",
+      "zh": "支持为 VR 交互创作适应手部姿态的振动触觉反馈。"
+    },
+    "categories": [
+      {
+        "stage": "requirements",
+        "subtopic": "elicitation"
+      }
+    ],
+    "insights": [
+      "spatial"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1145/3631453",
+      "doi": "https://doi.org/10.1145/3631453"
+    }
+  },
+  {
+    "id": "ref-089",
+    "refs": [
+      89
+    ],
+    "title": "Impact of Latency on QoE, Performance, and Collaboration in Interactive Multi-User Virtual Reality",
+    "authors": "S. Van Damme, J. Sameri, S. Schwarzmann, Q. Wei, R. Trivisonno, F. De Turck, and M. Torres Vega",
+    "year": 2024,
+    "venue": "Applied Sciences",
+    "summary": {
+      "en": "Studies how network latency affects experience, task performance and collaboration in multi-user VR.",
+      "zh": "研究网络时延对多用户 VR 体验、任务表现与协作的影响。"
+    },
+    "categories": [
+      {
+        "stage": "development",
+        "subtopic": "performance"
+      },
+      {
+        "stage": "evaluation",
+        "subtopic": "experience"
+      }
+    ],
+    "insights": [
+      "evaluation",
+      "spatial"
+    ],
+    "links": {
+      "paper": "https://www.mdpi.com/2076-3417/14/6/2290",
+      "doi": "https://doi.org/10.3390/app14062290"
+    }
+  },
+  {
+    "id": "ref-128",
+    "refs": [
+      128
+    ],
+    "title": "Inception Attacks: Immersive Hijacking in Virtual Reality Systems",
+    "authors": "Z. Yang, C. Y. Li, A. Bhalla, B. Y. Zhao, and H. Zheng",
+    "year": 2024,
+    "venue": "arXiv",
+    "summary": {
+      "en": "Demonstrates immersive hijacking by trapping users inside an application that impersonates the VR system interface.",
+      "zh": "通过伪装成 VR 系统界面的应用困住用户，展示沉浸式劫持攻击。"
+    },
+    "categories": [
+      {
+        "stage": "deployment",
+        "subtopic": "interface-security"
+      }
+    ],
+    "insights": [
+      "security",
+      "spatial"
+    ],
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2403.05721",
+      "paper": "https://arxiv.org/abs/2403.05721"
+    }
+  },
+  {
+    "id": "ref-107",
+    "refs": [
+      107
+    ],
+    "title": "Less Cybersickness, Please: Demystifying and Detecting Stereoscopic Visual Inconsistencies in Virtual Reality Apps",
+    "authors": "S. Li, C. Gao, J. Zhang, Y. Zhang, Y. Liu, J. Gu, Y. Peng, and M. R. Lyu",
+    "year": 2024,
+    "venue": "FSE",
+    "summary": {
+      "en": "Introduces StereoID to detect stereoscopic visual inconsistencies from rendered left- and right-eye images.",
+      "zh": "提出 StereoID，基于左右眼渲染图像检测立体视觉不一致问题。"
+    },
+    "categories": [
+      {
+        "stage": "testing",
+        "subtopic": "usability"
+      },
+      {
+        "stage": "evaluation",
+        "subtopic": "runtime"
+      },
+      {
+        "stage": "testing",
+        "subtopic": "gui"
+      }
+    ],
+    "insights": [
+      "spatial",
+      "evaluation"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1145/3660803",
+      "arxiv": "https://arxiv.org/abs/2406.09313",
+      "paper": "https://doi.org/10.1145/3660803"
+    }
+  },
+  {
+    "id": "ref-025",
+    "refs": [
+      25
+    ],
+    "title": "M2AR: A Web-based Modeling Environment for the Augmented Reality Workflow Modeling Language",
+    "authors": "F. Muff and H. Fill",
+    "year": 2024,
+    "venue": "MODELS",
+    "summary": {
+      "en": "Provides a web modeling environment for specifying AR application workflows.",
+      "zh": "提供用于描述 AR 应用工作流的 Web 建模环境。"
+    },
+    "categories": [
+      {
+        "stage": "requirements",
+        "subtopic": "analysis"
+      }
+    ],
+    "insights": [
+      "spatial"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1145/3652620.3687779",
+      "doi": "https://doi.org/10.1145/3652620.3687779"
+    }
+  },
+  {
+    "id": "ref-015",
+    "refs": [
+      15
+    ],
+    "title": "RE Methods for Virtual Reality Software Product Development: A Mapping Study",
+    "authors": "S. A. Karre, Y. R. Reddy, and R. Mittal",
+    "year": 2024,
+    "venue": "ACM TOSEM",
+    "summary": {
+      "en": "Maps requirements engineering methods used in VR software product development.",
+      "zh": "梳理 VR 软件产品开发中采用的需求工程方法。"
+    },
+    "categories": [
+      {
+        "stage": "requirements",
+        "subtopic": "analysis"
+      }
+    ],
+    "insights": [
+      "spatial"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1145/3649595",
+      "doi": "https://doi.org/10.1145/3649595"
+    }
+  },
+  {
+    "id": "ref-132",
+    "refs": [
+      132
+    ],
+    "title": "That doesn’t go there: attacks on shared state in Multi-User augmented reality applications",
+    "authors": "C. Slocum, Y. Zhang, E. Shayegani, P. Zaree, N. Abu-Ghazaleh, and J. Chen",
+    "year": 2024,
+    "venue": "USENIX Security",
+    "summary": {
+      "en": "Shows how manipulated shared state compromises multi-user AR interactions and virtual content.",
+      "zh": "展示共享状态被操纵后，多用户 AR 交互与虚拟内容面临的安全问题。"
+    },
+    "categories": [
+      {
+        "stage": "deployment",
+        "subtopic": "interface-security"
+      }
+    ],
+    "insights": [
+      "security",
+      "spatial"
+    ],
+    "links": {
+      "paper": "https://www.usenix.org/conference/usenixsecurity24/presentation/slocum"
+    }
+  },
+  {
+    "id": "ref-130",
+    "refs": [
+      130
+    ],
+    "title": "The Big Brother’s New Playground: Unmasking the Illusion of Privacy in Web Metaverses from a Malicious User’s Perspective",
+    "authors": "Andrea Mengascini, Ryan Aurelio, Giancarlo Pellegrino",
+    "year": 2024,
+    "venue": "CCS",
+    "summary": {
+      "en": "Exploits browser-side metaverse objects to study surveillance, tracking and privacy leakage by malicious users.",
+      "zh": "利用浏览器端元宇宙对象，研究恶意用户实施监视、追踪与隐私泄露的方式。"
+    },
+    "categories": [
+      {
+        "stage": "deployment",
+        "subtopic": "interface-security"
+      },
+      {
+        "stage": "deployment",
+        "subtopic": "privacy"
+      }
+    ],
+    "insights": [
+      "security"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1145/3658644.3690249",
+      "paper": "https://doi.org/10.1145/3658644.3690249"
+    }
+  },
+  {
+    "id": "ref-106",
+    "refs": [
+      106
+    ],
+    "title": "Towards Automatic Oracle Prediction for AR Testing: Assessing Virtual Object Placement Quality under Real-World Scenes",
+    "authors": "X. Yang, Y. Wang, T. Rafi, D. Liu, X. Wang, and X. Zhang",
+    "year": 2024,
+    "venue": "ISSTA",
+    "summary": {
+      "en": "Combines scene metadata and learned image analysis to detect imprecise AR object placements.",
+      "zh": "结合场景元数据与图像学习，检测 AR 物体放置不准确的问题。"
+    },
+    "categories": [
+      {
+        "stage": "testing",
+        "subtopic": "usability"
+      }
+    ],
+    "insights": [
+      "spatial",
+      "evaluation"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1145/3650212.3680315",
+      "paper": "https://doi.org/10.1145/3650212.3680315"
+    }
+  },
+  {
+    "id": "ref-153",
+    "refs": [
+      153
+    ],
+    "title": "Understanding Privacy in Virtual Reality Classrooms: A Contextual Integrity Perspective",
+    "authors": "K. Brehm and Y. Shvartzshnaider",
+    "year": 2024,
+    "venue": "IEEE Security & Privacy",
+    "summary": {
+      "en": "Analyzes information flows in VR classrooms through contextual integrity and context-dependent privacy expectations.",
+      "zh": "通过情境完整性分析 VR 课堂的信息流及情境相关的隐私预期。"
+    },
+    "categories": [
+      {
+        "stage": "deployment",
+        "subtopic": "platforms"
+      }
+    ],
+    "insights": [
+      "security"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1109/MSEC.2023.3336802",
+      "paper": "https://doi.org/10.1109/MSEC.2023.3336802"
+    }
+  },
+  {
+    "id": "ref-115",
+    "refs": [
+      115
+    ],
+    "title": "Utilizing Generative AI for VR Exploration Testing: A Case Study",
+    "authors": "X. Qin and G. Weaver",
+    "year": 2024,
+    "venue": "ASE Workshops",
+    "summary": {
+      "en": "Studies generative AI for identifying test entities and spatial features from VR field-of-view images.",
+      "zh": "研究生成式 AI 从 VR 视野图像识别测试实体与空间特征的能力。"
+    },
+    "categories": [
+      {
+        "stage": "testing",
+        "subtopic": "tools"
+      }
+    ],
+    "insights": [
+      "spatial",
+      "ai",
+      "evaluation"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1145/3691621.3694955",
+      "paper": "https://doi.org/10.1145/3691621.3694955"
+    }
+  },
+  {
+    "id": "ref-117",
+    "refs": [
+      117
+    ],
+    "title": "VPVet: Vetting Privacy Policies of Virtual Reality Apps",
+    "authors": "Y. Zhan, Y. Meng, L. Zhou, Y. Xiong, X. Zhang, L. Ma, G. Chen, Q. Pei, and H. Zhu",
+    "year": 2024,
+    "venue": "CCS",
+    "summary": {
+      "en": "Introduces VPVet to analyze VR privacy policies for collection granularity, minimization and statement consistency.",
+      "zh": "提出 VPVet，分析 VR 隐私政策的数据收集粒度、最小化与陈述一致性。"
+    },
+    "categories": [
+      {
+        "stage": "deployment",
+        "subtopic": "platforms"
+      },
+      {
+        "stage": "deployment",
+        "subtopic": "privacy"
+      }
+    ],
+    "insights": [
+      "security"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1145/3658644.3690321",
+      "paper": "https://doi.org/10.1145/3658644.3690321",
+      "arxiv": "https://arxiv.org/abs/2409.00740",
+      "code": "https://github.com/kalamoo/PPAudit"
+    }
+  },
+  {
+    "id": "ref-129",
+    "refs": [
+      129
+    ],
+    "title": "When the User Is Inside the User Interface: An Empirical Study of UI Security Properties in Augmented Reality",
+    "authors": "K. Cheng, A. Bhattacharya, M. Lin, J. Lee, A. Kumar, J. F. Tian, T. Kohno, and F. Roesner",
+    "year": 2024,
+    "venue": "USENIX Security",
+    "summary": {
+      "en": "Examines AR UI security properties through platform measurements and proof-of-concept interface attacks.",
+      "zh": "通过平台测量与概念验证攻击，研究 AR 用户界面的安全属性。"
+    },
+    "categories": [
+      {
+        "stage": "deployment",
+        "subtopic": "interface-security"
+      }
+    ],
+    "insights": [
+      "security",
+      "spatial"
+    ],
+    "links": {
+      "paper": "https://www.usenix.org/conference/usenixsecurity24/presentation/cheng-kaiming"
+    }
+  },
+  {
+    "id": "ref-112",
+    "refs": [
+      112
+    ],
+    "title": "A peek into the metaverse: detecting 3D model clones in mobile games",
+    "authors": "C. Zuo, C. Wang, and Z. Lin",
+    "year": 2023,
+    "venue": "USENIX Security",
+    "summary": {
+      "en": "Detects static and animated 3D model clones in Unity mobile games through normalized asset comparison.",
+      "zh": "通过规范化资产比较，检测 Unity 移动游戏中的静态与动画三维模型克隆。"
+    },
+    "categories": [
+      {
+        "stage": "testing",
+        "subtopic": "security"
+      }
+    ],
+    "insights": [
+      "security"
+    ],
+    "links": {
+      "paper": "https://www.usenix.org/conference/usenixsecurity23/presentation/zuo"
+    }
+  },
+  {
+    "id": "ref-010",
+    "refs": [
+      10
+    ],
+    "title": "A Survey on Metaverse: Fundamentals, Security, and Privacy",
+    "authors": "Y. Wang, Z. Su, N. Zhang, R. Xing, D. Liu, T. H. Luan, and X. Shen",
+    "year": 2023,
+    "venue": "IEEE Communications Surveys & Tutorials",
+    "summary": {
+      "en": "Surveys metaverse foundations alongside security and privacy threats, protections and research challenges.",
+      "zh": "综述元宇宙基础，以及安全与隐私威胁、防护方法和研究挑战。"
+    },
+    "categories": [
+      {
+        "stage": "related",
+        "subtopic": "surveys"
+      }
+    ],
+    "insights": [
+      "security"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1109/COMST.2022.3202047",
+      "doi": "https://doi.org/10.1109/COMST.2022.3202047"
+    }
+  },
+  {
+    "id": "ref-005",
+    "refs": [
+      5
+    ],
+    "title": "Analyzing augmented reality (AR) and virtual reality (VR) recent development in education",
+    "authors": "A. M. Al-Ansi, M. Jaboob, A. Garad, and A. Al-Ansi",
+    "year": 2023,
+    "venue": "Social Sciences & Humanities Open",
+    "summary": {
+      "en": "Reviews recent AR and VR developments and their educational applications.",
+      "zh": "回顾 AR 与 VR 的近期发展及其教育应用。"
+    },
+    "categories": [
+      {
+        "stage": "related",
+        "subtopic": "surveys"
+      }
+    ],
+    "insights": [],
+    "links": {
+      "paper": "https://doi.org/10.1016/j.ssaho.2023.100532",
+      "doi": "https://doi.org/10.1016/j.ssaho.2023.100532"
+    }
+  },
+  {
+    "id": "ref-156",
+    "refs": [
+      156
+    ],
+    "title": "Demystifying Mobile Extended Reality in Web Browsers: How Far Can We Go?",
+    "authors": "W. Bi, Y. Ma, D. Tian, Q. Yang, M. Zhang, and X. Jing",
+    "year": 2023,
+    "venue": "The Web Conference",
+    "summary": {
+      "en": "Benchmarks mobile web XR frameworks to connect loading and frame-rate bottlenecks with implementation choices.",
+      "zh": "评测移动 Web XR 框架，将加载与帧率瓶颈关联到实现选择。"
+    },
+    "categories": [
+      {
+        "stage": "evaluation",
+        "subtopic": "runtime"
+      }
+    ],
+    "insights": [
+      "evaluation"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1145/3543507.3583329",
+      "paper": "https://doi.org/10.1145/3543507.3583329"
+    }
+  },
+  {
+    "id": "ref-135",
+    "refs": [
+      135
+    ],
+    "title": "Erebus: Access Control for Augmented Reality Systems",
+    "authors": "Y. Kim, S. Goutam, A. Rahmati, and A. Kaufman",
+    "year": 2023,
+    "venue": "USENIX Security",
+    "summary": {
+      "en": "Introduces Erebus for fine-grained, context-aware access control over AR sensing data.",
+      "zh": "提出 Erebus，实现 AR 感知数据的细粒度、上下文感知访问控制。"
+    },
+    "categories": [
+      {
+        "stage": "deployment",
+        "subtopic": "interface-security"
+      },
+      {
+        "stage": "deployment",
+        "subtopic": "privacy"
+      }
+    ],
+    "insights": [
+      "security"
+    ],
+    "links": {
+      "paper": "https://www.usenix.org/conference/usenixsecurity23/presentation/kim-yoonsang",
+      "code": "https://github.com/Ethos-lab/erebus-AR_access_control"
+    }
+  },
+  {
+    "id": "ref-133",
+    "refs": [
+      133
+    ],
+    "title": "Exploring the Privacy Risks of Adversarial VR Game Design",
+    "authors": "V. Nair, G. Munilla Garrido, D. Song, and J. O’Brien",
+    "year": 2023,
+    "venue": "PoPETs",
+    "summary": {
+      "en": "Uses adversarial VR game design to investigate sensitive information exposed through gameplay and movement.",
+      "zh": "利用对抗式 VR 游戏设计，研究游戏行为与运动暴露的敏感信息。"
+    },
+    "categories": [
+      {
+        "stage": "deployment",
+        "subtopic": "interface-security"
+      },
+      {
+        "stage": "deployment",
+        "subtopic": "privacy"
+      }
+    ],
+    "insights": [
+      "security"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.56553/popets-2023-0108",
+      "paper": "https://doi.org/10.56553/popets-2023-0108"
+    }
+  },
+  {
+    "id": "ref-127",
+    "refs": [
+      127
+    ],
+    "title": "It’s all in your head(set): side-channel attacks on AR/VR systems",
+    "authors": "Y. Zhang, C. Slocum, J. Chen, and N. Abu-Ghazaleh",
+    "year": 2023,
+    "venue": "USENIX Security",
+    "summary": {
+      "en": "Demonstrates malware-driven side channels that infer AR/VR gestures, voice commands and virtual keystrokes.",
+      "zh": "展示恶意软件侧信道对 AR/VR 手势、语音指令与虚拟键盘输入的推断。"
+    },
+    "categories": [
+      {
+        "stage": "deployment",
+        "subtopic": "interface-security"
+      },
+      {
+        "stage": "deployment",
+        "subtopic": "privacy"
+      }
+    ],
+    "insights": [
+      "security"
+    ],
+    "links": {
+      "paper": "https://www.usenix.org/conference/usenixsecurity23/presentation/zhang-yicheng"
+    }
+  },
+  {
+    "id": "ref-017",
+    "refs": [
+      17
+    ],
+    "title": "Requirements Elicitation for Virtual Reality Products - A Mapping Study",
+    "authors": "S. A. Karre, R. Mittal, and R. Reddy",
+    "year": 2023,
+    "venue": "ISEC",
+    "summary": {
+      "en": "Maps techniques and practices for eliciting requirements of VR products.",
+      "zh": "梳理 VR 产品需求获取的技术与实践。"
+    },
+    "categories": [
+      {
+        "stage": "requirements",
+        "subtopic": "elicitation"
+      }
+    ],
+    "insights": [
+      "spatial"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1145/3578527.3578536",
+      "doi": "https://doi.org/10.1145/3578527.3578536"
+    }
+  },
+  {
+    "id": "ref-098",
+    "refs": [
+      98
+    ],
+    "title": "Virtual Reality (VR) Automated Testing in the Wild: A Case Study on Unity-Based VR Applications",
+    "authors": "D. E. Rzig, N. Iqbal, I. Attisano, X. Qin, and F. Hassan",
+    "year": 2023,
+    "venue": "ISSTA",
+    "summary": {
+      "en": "Characterizes automated testing practices and test categories across open-source Unity VR applications.",
+      "zh": "分析开源 Unity VR 应用的自动化测试实践与测试类型。"
+    },
+    "categories": [
+      {
+        "stage": "testing",
+        "subtopic": "functional"
+      },
+      {
+        "stage": "testing",
+        "subtopic": "gui"
+      }
+    ],
+    "insights": [
+      "spatial",
+      "evaluation"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1145/3597926.3598134",
+      "paper": "https://doi.org/10.1145/3597926.3598134"
+    }
+  },
+  {
+    "id": "ref-103",
+    "refs": [
+      103
+    ],
+    "title": "VRGuide: Efficient Testing of Virtual Reality Scenes via Dynamic Cut Coverage",
+    "authors": "X. Wang, T. Rafi, and N. Meng",
+    "year": 2023,
+    "venue": "ASE",
+    "summary": {
+      "en": "Uses dynamic cut coverage to guide camera movement and improve exploration of VR scenes.",
+      "zh": "利用动态切面覆盖引导相机移动，提升 VR 场景探索效率。"
+    },
+    "categories": [
+      {
+        "stage": "testing",
+        "subtopic": "gui"
+      }
+    ],
+    "insights": [
+      "spatial"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1109/ASE56229.2023.00197",
+      "paper": "https://doi.org/10.1109/ASE56229.2023.00197"
+    }
+  },
+  {
+    "id": "ref-146",
+    "refs": [
+      146
+    ],
+    "title": "A Keylogging Inference Attack on Air-Tapping Keyboards in Virtual Environments",
+    "authors": "Ü. Meteriz-Yıldıran, N. F. Yıldıran, A. Awad, and D. Mohaisen",
+    "year": 2022,
+    "venue": "IEEE VR",
+    "summary": {
+      "en": "Reconstructs air-tapped keyboard input from observable hand-motion patterns in virtual environments.",
+      "zh": "基于虚拟环境中可观察的手部运动模式，重建空中敲击键盘输入。"
+    },
+    "categories": [
+      {
+        "stage": "deployment",
+        "subtopic": "privacy"
+      }
+    ],
+    "insights": [
+      "security"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1109/VR51125.2022.00098",
+      "paper": "https://doi.org/10.1109/VR51125.2022.00098"
+    }
+  },
+  {
+    "id": "ref-024",
+    "refs": [
+      24
+    ],
+    "title": "A Role Based Model Template for Specifying Virtual Reality Software",
+    "authors": "S. A. Karre, V. Pareek, R. Mittal, and R. Reddy",
+    "year": 2022,
+    "venue": "ASE",
+    "summary": {
+      "en": "Introduces a role-based metamodel for specifying the core elements of VR software systems.",
+      "zh": "提出基于角色的元模型，用于描述 VR 软件系统的核心要素。"
+    },
+    "categories": [
+      {
+        "stage": "requirements",
+        "subtopic": "analysis"
+      },
+      {
+        "stage": "requirements",
+        "subtopic": "specification"
+      }
+    ],
+    "insights": [
+      "spatial"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1145/3551349.3560514",
+      "doi": "https://doi.org/10.1145/3551349.3560514"
+    }
+  },
+  {
+    "id": "ref-118",
+    "refs": [
+      118
+    ],
+    "title": "A Study of User Privacy in Android Mobile AR Apps",
+    "authors": "X. Yang and X. Zhang",
+    "year": 2022,
+    "venue": "ASE",
+    "summary": {
+      "en": "Examines user privacy practices and data handling in Android mobile AR applications.",
+      "zh": "考察 Android 移动 AR 应用中的用户隐私实践与数据处理。"
+    },
+    "categories": [
+      {
+        "stage": "deployment",
+        "subtopic": "platforms"
+      },
+      {
+        "stage": "deployment",
+        "subtopic": "privacy"
+      }
+    ],
+    "insights": [
+      "security"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1145/3551349.3560512",
+      "paper": "https://doi.org/10.1145/3551349.3560512"
+    }
+  },
+  {
+    "id": "ref-072",
+    "refs": [
+      72
+    ],
+    "title": "Analysis of Virtual Reality and Augmented Reality SDK’s and Game Engines: A Comparison",
+    "authors": "S. Angra, B. Sharma, and A. Sharma",
+    "year": 2022,
+    "venue": "ICECAA",
+    "summary": {
+      "en": "Compares VR and AR SDKs and game engines for application development.",
+      "zh": "比较用于 VR 与 AR 应用开发的 SDK 和游戏引擎。"
+    },
+    "categories": [
+      {
+        "stage": "development",
+        "subtopic": "environments"
+      }
+    ],
+    "insights": [
+      "spatial"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1109/ICECAA55415.2022.9936111",
+      "doi": "https://doi.org/10.1109/ICECAA55415.2022.9936111"
+    }
+  },
+  {
+    "id": "ref-094",
+    "refs": [
+      94
+    ],
+    "title": "Analyzing Performance Issues of Virtual Reality Applications",
+    "authors": "J. Hogan, A. Salo, D. E. Rzig, F. Hassan, and B. Maxim",
+    "year": 2022,
+    "venue": "arXiv",
+    "summary": {
+      "en": "Derives Unreal Engine performance bug patterns and detects performance bugs in configuration files and C++ code.",
+      "zh": "提炼虚幻引擎性能缺陷模式，并检测配置文件与 C++ 代码中的性能缺陷。"
+    },
+    "categories": [
+      {
+        "stage": "development",
+        "subtopic": "performance"
+      },
+      {
+        "stage": "maintenance",
+        "subtopic": "refactoring"
+      }
+    ],
+    "insights": [
+      "maintenance"
+    ],
+    "links": {
+      "arxiv": "https://arxiv.org/abs/2211.02013",
+      "paper": "https://arxiv.org/abs/2211.02013"
+    }
+  },
+  {
+    "id": "ref-152",
+    "refs": [
+      152
+    ],
+    "title": "Beyond Genre: Classifying Virtual Reality Experiences",
+    "authors": "M. Foxman, D. Beyea, A. P. Leith, R. A. Ratan, V. H. H. Chen, and B. Klebig",
+    "year": 2022,
+    "venue": "IEEE Transactions on Games",
+    "summary": {
+      "en": "Classifies VR experiences beyond conventional game genres to support platform discovery and comparison.",
+      "zh": "超越传统游戏类型划分 VR 体验，支持平台中的内容发现与比较。"
+    },
+    "categories": [
+      {
+        "stage": "deployment",
+        "subtopic": "platforms"
+      }
+    ],
+    "insights": [
+      "spatial",
+      "evaluation"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1109/TG.2021.3119521",
+      "paper": "https://doi.org/10.1109/TG.2021.3119521"
+    }
+  },
+  {
+    "id": "ref-113",
+    "refs": [
+      113
+    ],
+    "title": "DyTRec: A Dynamic Testing Recommendation tool for Unity-based Virtual Reality Software",
+    "authors": "X. Qin and F. Hassan",
+    "year": 2022,
+    "venue": "ASE",
+    "summary": {
+      "en": "Recommends dynamic test types by analyzing Unity APIs and their use in VR source code.",
+      "zh": "分析 Unity API 及其在 VR 源代码中的使用，推荐动态测试类型。"
+    },
+    "categories": [
+      {
+        "stage": "testing",
+        "subtopic": "tools"
+      }
+    ],
+    "insights": [
+      "spatial"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1145/3551349.3560510",
+      "paper": "https://doi.org/10.1145/3551349.3560510"
+    }
+  },
+  {
+    "id": "ref-067",
+    "refs": [
+      67
+    ],
+    "title": "Effects of simulated augmented reality cueing in a virtual navigation task",
+    "authors": "J. K. Stefanucci, D. Brickler, H. C. Finney, E. Wilson, T. Drew, and S. H. Creem-Regehr",
+    "year": 2022,
+    "venue": "Frontiers in Virtual Reality",
+    "summary": {
+      "en": "Evaluates AR-style navigation cues through spatial learning, cognitive load and situational awareness in VR.",
+      "zh": "在 VR 中评估 AR 式导航提示对空间学习、认知负荷与情境感知的影响。"
+    },
+    "categories": [
+      {
+        "stage": "design",
+        "subtopic": "ux"
+      }
+    ],
+    "insights": [
+      "spatial",
+      "evaluation"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.3389/frvir.2022.971310",
+      "doi": "https://doi.org/10.3389/frvir.2022.971310"
+    }
+  },
+  {
+    "id": "ref-038",
+    "refs": [
+      38
+    ],
+    "title": "Elements of XR Prototyping: Characterizing the Role and Use of Prototypes in Augmented and Virtual Reality Design",
+    "authors": "V. Krauß, M. Nebeling, F. Jasche, and A. Boden",
+    "year": 2022,
+    "venue": "CHI",
+    "summary": {
+      "en": "Characterizes how prototypes support design work across AR and VR projects.",
+      "zh": "分析原型在 AR 与 VR 项目设计中的作用与使用方式。"
+    },
+    "categories": [
+      {
+        "stage": "design",
+        "subtopic": "interaction"
+      }
+    ],
+    "insights": [
+      "spatial"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1145/3491102.3517714",
+      "doi": "https://doi.org/10.1145/3491102.3517714"
+    }
+  },
+  {
+    "id": "ref-088",
+    "refs": [
+      88
+    ],
+    "title": "Hidden in Plain Sight: Exploring Privacy Risks of Mobile Augmented Reality Applications",
+    "authors": "S. M. Lehman, A. S. Alrumayh, K. Kolhe, H. Ling, and C. C. Tan",
+    "year": 2022,
+    "venue": "ACM TOPS",
+    "summary": {
+      "en": "Examines hidden operations in mobile AR and develops defenses against privacy-invasive interactions.",
+      "zh": "分析移动 AR 的隐藏操作，并设计保护用户隐私的交互机制。"
+    },
+    "categories": [
+      {
+        "stage": "development",
+        "subtopic": "interaction"
+      },
+      {
+        "stage": "deployment",
+        "subtopic": "interface-security"
+      }
+    ],
+    "insights": [
+      "security",
+      "spatial"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1145/3524020",
+      "paper": "https://doi.org/10.1145/3524020"
+    }
+  },
+  {
+    "id": "ref-147",
+    "refs": [
+      147
+    ],
+    "title": "HoloLogger: Keystroke Inference on Mixed Reality Head Mounted Displays",
+    "authors": "S. Luo, X. Hu, and Z. Yan",
+    "year": 2022,
+    "venue": "IEEE VR",
+    "summary": {
+      "en": "Introduces HoloLogger to infer virtual keystrokes on mixed-reality head-mounted displays.",
+      "zh": "提出 HoloLogger，推断混合现实头戴显示器上的虚拟键盘输入。"
+    },
+    "categories": [
+      {
+        "stage": "deployment",
+        "subtopic": "privacy"
+      }
+    ],
+    "insights": [
+      "security"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1109/VR51125.2022.00064",
+      "paper": "https://doi.org/10.1109/VR51125.2022.00064"
+    }
+  },
+  {
+    "id": "ref-134",
+    "refs": [
+      134
+    ],
+    "title": "Modeling and Defense of Social Virtual Reality Attacks Inducing Cybersickness",
+    "authors": "S. Valluripally, A. Gulhane, K. A. Hoque, and P. Calyam",
+    "year": 2022,
+    "venue": "IEEE TDSC",
+    "summary": {
+      "en": "Models attacks that induce cybersickness in social VR and evaluates defenses with attack-fault trees.",
+      "zh": "通过攻击故障树建模社交 VR 中诱发晕动症的攻击，并评估防御机制。"
+    },
+    "categories": [
+      {
+        "stage": "deployment",
+        "subtopic": "interface-security"
+      }
+    ],
+    "insights": [
+      "security",
+      "spatial"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1109/TDSC.2021.3121216",
+      "paper": "https://doi.org/10.1109/TDSC.2021.3121216"
+    }
+  },
+  {
+    "id": "ref-070",
+    "refs": [
+      70
+    ],
+    "title": "OVRseen: Auditing Network Traffic and Privacy Policies in Oculus VR",
+    "authors": "R. Trimananda, H. Le, H. Cui, J. T. Ho, A. Shuba, and A. Markopoulou",
+    "year": 2022,
+    "venue": "USENIX Security",
+    "summary": {
+      "en": "Audits Oculus VR network traffic against privacy policies to examine data collection and disclosure.",
+      "zh": "对照隐私政策审计 Oculus VR 网络流量，研究数据收集与披露。"
+    },
+    "categories": [
+      {
+        "stage": "development",
+        "subtopic": "environments"
+      },
+      {
+        "stage": "deployment",
+        "subtopic": "platforms"
+      },
+      {
+        "stage": "deployment",
+        "subtopic": "privacy"
+      }
+    ],
+    "insights": [
+      "security"
+    ],
+    "links": {
+      "paper": "https://www.usenix.org/conference/usenixsecurity22/presentation/trimananda"
+    }
+  },
+  {
+    "id": "ref-137",
+    "refs": [
+      137
+    ],
+    "title": "Playing Without Paying: Detecting Vulnerable Payment Verification in Native Binaries of Unity Mobile Games",
+    "authors": "C. Zuo and Z. Lin",
+    "year": 2022,
+    "venue": "USENIX Security",
+    "summary": {
+      "en": "Analyzes native Unity game binaries to detect vulnerable in-app payment verification.",
+      "zh": "分析 Unity 游戏原生二进制，检测存在漏洞的应用内支付验证。"
+    },
+    "categories": [
+      {
+        "stage": "deployment",
+        "subtopic": "interface-security"
+      }
+    ],
+    "insights": [
+      "security"
+    ],
+    "links": {
+      "paper": "https://www.usenix.org/conference/usenixsecurity22/presentation/zuo"
+    }
+  },
+  {
+    "id": "ref-105",
+    "refs": [
+      105
+    ],
+    "title": "PredART: Towards automatic oracle prediction of object placements in augmented reality testing",
+    "authors": "T. Rafi, X. Zhang, and X. Wang",
+    "year": 2022,
+    "venue": "ASE",
+    "summary": {
+      "en": "Predicts human judgments of virtual object placement to automate AR usability oracles.",
+      "zh": "预测人类对虚拟物体放置质量的判断，构建 AR 可用性测试预言。"
+    },
+    "categories": [
+      {
+        "stage": "testing",
+        "subtopic": "usability"
+      }
+    ],
+    "insights": [
+      "spatial",
+      "evaluation"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1145/3551349.3561160",
+      "paper": "https://doi.org/10.1145/3551349.3561160"
+    }
+  },
+  {
+    "id": "ref-086",
+    "refs": [
+      86
+    ],
+    "title": "Reality Check of Metaverse: A First Look at Commercial Social Virtual Reality Platforms",
+    "authors": "R. Cheng, N. Wu, S. Chen, and B. Han",
+    "year": 2022,
+    "venue": "IEEE VR Workshops",
+    "summary": {
+      "en": "Measures commercial social VR networking to characterize multimedia delivery, protocol use and bandwidth demands.",
+      "zh": "测量商用社交 VR 的网络协议、多媒体传输与带宽需求。"
+    },
+    "categories": [
+      {
+        "stage": "development",
+        "subtopic": "interaction"
+      }
+    ],
+    "insights": [
+      "spatial",
+      "evaluation"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1109/VRW55335.2022.00040",
+      "paper": "https://doi.org/10.1109/VRW55335.2022.00040"
+    }
+  },
+  {
+    "id": "ref-140",
+    "refs": [
+      140
+    ],
+    "title": "Security and privacy evaluation of popular augmented and virtual reality technologies",
+    "authors": "N. Noah, S. Shearer, and S. Das",
+    "year": 2022,
+    "venue": "IEEE MetroXRAINE",
+    "summary": {
+      "en": "Evaluates authentication, user profiling and access control in popular AR/VR technologies.",
+      "zh": "评估主流 AR/VR 技术的身份认证、用户画像与访问控制。"
+    },
+    "categories": [
+      {
+        "stage": "deployment",
+        "subtopic": "empirical"
+      }
+    ],
+    "insights": [
+      "security"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.2139/ssrn.4173372",
+      "paper": "https://doi.org/10.2139/ssrn.4173372"
+    }
+  },
+  {
+    "id": "ref-009",
+    "refs": [
+      9
+    ],
+    "title": "Security of Virtual Reality Authentication Methods in Metaverse: An Overview",
+    "authors": "Pınar Kürtünlüoğlu, Beste Akdik, Enis Karaarslan",
+    "year": 2022,
+    "venue": "arXiv",
+    "summary": {
+      "en": "Compares knowledge-based, biometric and multimodal authentication methods for VR environments and metaverse access.",
+      "zh": "比较 VR 环境与元宇宙访问中的知识型、生物特征和多模态身份认证方法。"
+    },
+    "categories": [
+      {
+        "stage": "related",
+        "subtopic": "surveys"
+      }
+    ],
+    "insights": [
+      "security"
+    ],
+    "links": {
+      "paper": "https://arxiv.org/abs/2209.06447",
+      "arxiv": "https://arxiv.org/abs/2209.06447"
+    }
+  },
+  {
+    "id": "ref-057",
+    "refs": [
+      57
+    ],
+    "title": "Software Engineering for Augmented Reality - A Research Agenda",
+    "authors": "I. Börsting, M. Heikamp, M. Hesenius, W. Koop, and V. Gruhn",
+    "year": 2022,
+    "venue": "ACM PACMHCI (EICS)",
+    "summary": {
+      "en": "Reviews software engineering for AR and develops a research agenda for its methods and tools.",
+      "zh": "回顾 AR 软件工程，提出面向方法与工具的研究议程。"
+    },
+    "categories": [
+      {
+        "stage": "design",
+        "subtopic": "storyboarding"
+      },
+      {
+        "stage": "related",
+        "subtopic": "surveys"
+      }
+    ],
+    "insights": [
+      "spatial"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1145/3532205",
+      "doi": "https://doi.org/10.1145/3532205"
+    }
+  },
+  {
+    "id": "ref-007",
+    "refs": [
+      7
+    ],
+    "title": "Virtual Reality in Healthcare: A Survey",
+    "authors": "Dorota Kamińska, Grzegorz Zwoliński, Anna Laska-Leśniewicz, Luis Pinto Coelho",
+    "year": 2022,
+    "venue": "Emerging Advancements for Virtual and Augmented Reality in Healthcare",
+    "summary": {
+      "en": "Surveys VR applications in therapy, rehabilitation and medical education.",
+      "zh": "综述 VR 在治疗、康复与医学教育中的应用。"
+    },
+    "categories": [
+      {
+        "stage": "related",
+        "subtopic": "surveys"
+      }
+    ],
+    "insights": [],
+    "links": {
+      "paper": "https://recipp.ipp.pt/entities/publication/26c1ce76-8535-4ca7-800f-d7ef238c952a"
+    }
+  },
+  {
+    "id": "ref-022",
+    "refs": [
+      22
+    ],
+    "title": "VR4HcRE: Virtual Reality Platform for Human-centric Requirements Elicitation",
+    "authors": "Y. Wang, X. Liu, B. Cheng, C. Arora, and T. Hoang",
+    "year": 2022,
+    "venue": "ISMAR Adjunct",
+    "summary": {
+      "en": "Provides a VR platform for human-centered requirements elicitation.",
+      "zh": "提供面向人的 VR 需求获取平台。"
+    },
+    "categories": [
+      {
+        "stage": "requirements",
+        "subtopic": "elicitation"
+      }
+    ],
+    "insights": [
+      "spatial"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1109/ISMAR-Adjunct57072.2022.00168",
+      "doi": "https://doi.org/10.1109/ISMAR-Adjunct57072.2022.00168"
+    }
+  },
+  {
+    "id": "ref-102",
+    "refs": [
+      102
+    ],
+    "title": "VRTest: An extensible framework for automatic testing of virtual reality scenes",
+    "authors": "X. Wang",
+    "year": 2022,
+    "venue": "ICSE Companion",
+    "summary": {
+      "en": "Automates VR scene exploration through camera control and random or greedy interaction strategies.",
+      "zh": "通过相机控制与随机或贪心交互策略，自动探索 VR 场景。"
+    },
+    "categories": [
+      {
+        "stage": "testing",
+        "subtopic": "gui"
+      }
+    ],
+    "insights": [
+      "spatial"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1109/ICSE-Companion55297.2022.9793753",
+      "paper": "https://doi.org/10.1109/ICSE-Companion55297.2022.9793753"
+    }
+  },
+  {
+    "id": "ref-087",
+    "refs": [
+      87
+    ],
+    "title": "Will Metaverse Be NextG Internet? Vision, Hype, and Reality",
+    "authors": "R. Cheng, N. Wu, S. Chen, and B. Han",
+    "year": 2022,
+    "venue": "IEEE Network",
+    "summary": {
+      "en": "Compares commercial metaverse platforms to connect network performance with deployment requirements and future infrastructure.",
+      "zh": "比较商用元宇宙平台，将网络性能与部署需求及基础设施研究连接起来。"
+    },
+    "categories": [
+      {
+        "stage": "development",
+        "subtopic": "interaction"
+      }
+    ],
+    "insights": [
+      "evaluation"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1109/MNET.117.2200055",
+      "paper": "https://doi.org/10.1109/MNET.117.2200055"
+    }
+  },
+  {
+    "id": "ref-004",
+    "refs": [
+      4
+    ],
+    "title": "A Survey on Mobile Augmented Reality With 5G Mobile Edge Computing: Architectures, Applications, and Technical Aspects",
+    "authors": "Y. Siriwardhana, P. Porambage, M. Liyanage, and M. Ylianttila",
+    "year": 2021,
+    "venue": "IEEE Communications Surveys & Tutorials",
+    "summary": {
+      "en": "Surveys mobile AR architectures, applications and technical challenges enabled by 5G mobile edge computing.",
+      "zh": "综述 5G 移动边缘计算支持的移动 AR 架构、应用与技术挑战。"
+    },
+    "categories": [
+      {
+        "stage": "related",
+        "subtopic": "surveys"
+      }
+    ],
+    "insights": [],
+    "links": {
+      "paper": "https://doi.org/10.1109/COMST.2021.3061981",
+      "doi": "https://doi.org/10.1109/COMST.2021.3061981"
+    }
+  },
+  {
+    "id": "ref-126",
+    "refs": [
+      126
+    ],
+    "title": "AdCube: WebVR Ad Fraud and Practical Confinement of Third-Party Ads",
+    "authors": "H. Lee, J. Lee, D. Kim, S. Jana, I. Shin, and S. Son",
+    "year": 2021,
+    "venue": "USENIX Security",
+    "summary": {
+      "en": "Exposes WebVR advertising fraud and designs confinement mechanisms for third-party immersive advertisements.",
+      "zh": "揭示 WebVR 广告欺诈，并设计第三方沉浸式广告隔离机制。"
+    },
+    "categories": [
+      {
+        "stage": "deployment",
+        "subtopic": "interface-security"
+      }
+    ],
+    "insights": [
+      "security",
+      "spatial"
+    ],
+    "links": {
+      "paper": "https://www.usenix.org/conference/usenixsecurity21/presentation/lee-hyunjoo"
+    }
+  },
+  {
+    "id": "ref-073",
+    "refs": [
+      73
+    ],
+    "title": "Automatic Extraction of Code Dependency in Virtual Reality Software",
+    "authors": "J. Molina, X. Qin, and X. Wang",
+    "year": 2021,
+    "venue": "ICPC",
+    "summary": {
+      "en": "Extracts code dependencies from VR software to support program understanding.",
+      "zh": "提取 VR 软件中的代码依赖，支持程序理解。"
+    },
+    "categories": [
+      {
+        "stage": "development",
+        "subtopic": "environments"
+      }
+    ],
+    "insights": [
+      "maintenance"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1109/ICPC52881.2021.00043",
+      "doi": "https://doi.org/10.1109/ICPC52881.2021.00043"
+    }
+  },
+  {
+    "id": "ref-040",
+    "refs": [
+      40
+    ],
+    "title": "Current practices, challenges, and design implications for collaborative AR/VR application development",
+    "authors": "V. Krauß, A. Boden, L. Oppermann, and R. Reiners",
+    "year": 2021,
+    "venue": "CHI",
+    "summary": {
+      "en": "Interviews AR/VR professionals to identify development roles, collaboration challenges and tool needs.",
+      "zh": "访谈 AR/VR 从业者，识别开发角色、协作挑战与工具需求。"
+    },
+    "categories": [
+      {
+        "stage": "design",
+        "subtopic": "interaction"
+      }
+    ],
+    "insights": [
+      "spatial",
+      "maintenance"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1145/3411764.3445335",
+      "doi": "https://doi.org/10.1145/3411764.3445335"
+    }
+  },
+  {
+    "id": "ref-031",
+    "refs": [
+      31
+    ],
+    "title": "Distributed Microscopic Traffic Simulation with Human-in-the-Loop Enabled by Virtual Reality Technologies",
+    "authors": "M. Hasan, D. Perez, Y. Shen, and H. Yang",
+    "year": 2021,
+    "venue": "Advances in Engineering Software",
+    "summary": {
+      "en": "Integrates VR human participation with distributed microscopic traffic simulation.",
+      "zh": "将 VR 中的人员参与融入分布式微观交通仿真。"
+    },
+    "categories": [
+      {
+        "stage": "requirements",
+        "subtopic": "validation"
+      }
+    ],
+    "insights": [
+      "spatial"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1016/j.advengsoft.2021.102985",
+      "doi": "https://doi.org/10.1016/j.advengsoft.2021.102985"
+    }
+  },
+  {
+    "id": "ref-092",
+    "refs": [
+      92
+    ],
+    "title": "How Developers Optimize Virtual Reality Applications: A Study of Optimization Commits in Open Source Unity Projects",
+    "authors": "F. Nusrat, F. Hassan, H. Zhong, and X. Wang",
+    "year": 2021,
+    "venue": "ICSE",
+    "summary": {
+      "en": "Classifies real-world Unity VR optimizations across graphics, rendering and memory management.",
+      "zh": "分类真实 Unity VR 项目中的图形简化、渲染与内存优化。"
+    },
+    "categories": [
+      {
+        "stage": "development",
+        "subtopic": "performance"
+      },
+      {
+        "stage": "testing",
+        "subtopic": "bugs"
+      },
+      {
+        "stage": "maintenance",
+        "subtopic": "refactoring"
+      }
+    ],
+    "insights": [
+      "maintenance",
+      "evaluation"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1109/ICSE43902.2021.00052",
+      "paper": "https://doi.org/10.1109/ICSE43902.2021.00052"
+    }
+  },
+  {
+    "id": "ref-048",
+    "refs": [
+      48
+    ],
+    "title": "Immersive Video Sketching: Low-Fidelity Extended Reality Prototyping for Everyone",
+    "authors": "O. T. Buruk and J. Hamari",
+    "year": 2021,
+    "venue": "Mindtrek",
+    "summary": {
+      "en": "Uses immersive video sketching to create accessible, low-fidelity XR experience prototypes.",
+      "zh": "使用沉浸式视频草图创建易于制作的低保真 XR 体验原型。"
+    },
+    "categories": [
+      {
+        "stage": "design",
+        "subtopic": "sketching"
+      }
+    ],
+    "insights": [
+      "spatial"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1145/3464327.3464330",
+      "doi": "https://doi.org/10.1145/3464327.3464330"
+    }
+  },
+  {
+    "id": "ref-149",
+    "refs": [
+      149
+    ],
+    "title": "POSTER: ReAvatar: Virtual Reality De-anonymization Attack Through Correlating Movement Signatures",
+    "authors": "B. Falk, Y. Meng, Y. Zhan, and H. Zhu",
+    "year": 2021,
+    "venue": "CCS Poster",
+    "summary": {
+      "en": "Correlates movement signatures across VR sessions to study user de-anonymization.",
+      "zh": "关联不同 VR 会话中的运动特征，研究用户去匿名化。"
+    },
+    "categories": [
+      {
+        "stage": "deployment",
+        "subtopic": "privacy"
+      }
+    ],
+    "insights": [
+      "security"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1145/3460120.3485345",
+      "paper": "https://doi.org/10.1145/3460120.3485345"
+    }
+  },
+  {
+    "id": "ref-039",
+    "refs": [
+      39
+    ],
+    "title": "Research and Practice Recommendations for Mixed Reality Design – Different Perspectives from the Community",
+    "authors": "V. Krauß, F. Jasche, S. M. Saßmannshausen, T. Ludwig, and A. Boden",
+    "year": 2021,
+    "venue": "VRST",
+    "summary": {
+      "en": "Collects community perspectives to derive mixed reality design and research recommendations.",
+      "zh": "汇集社区观点，形成混合现实设计与研究建议。"
+    },
+    "categories": [
+      {
+        "stage": "design",
+        "subtopic": "interaction"
+      }
+    ],
+    "insights": [
+      "spatial"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1145/3489849.3489876",
+      "doi": "https://doi.org/10.1145/3489849.3489876"
+    }
+  },
+  {
+    "id": "ref-151",
+    "refs": [
+      151
+    ],
+    "title": "VR-Spy: A Side-Channel Attack on Virtual Key-Logging in VR Headsets",
+    "authors": "A. A. Arafat, Z. Guo, and A. Awad",
+    "year": 2021,
+    "venue": "IEEE VR",
+    "summary": {
+      "en": "Demonstrates a side-channel attack that recovers virtual keyboard input from VR headsets.",
+      "zh": "展示从 VR 头显恢复虚拟键盘输入的侧信道攻击。"
+    },
+    "categories": [
+      {
+        "stage": "deployment",
+        "subtopic": "privacy"
+      }
+    ],
+    "insights": [
+      "security"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1109/VR50410.2021.00081",
+      "paper": "https://doi.org/10.1109/VR50410.2021.00081"
+    }
+  },
+  {
+    "id": "ref-060",
+    "refs": [
+      60
+    ],
+    "title": "3D Photography Using Context-Aware Layered Depth Inpainting",
+    "authors": "M. Shih, S. Su, J. Kopf, and J. Huang",
+    "year": 2020,
+    "venue": "CVPR",
+    "summary": {
+      "en": "Converts RGB-D images into layered 3D photos through context-aware color and depth inpainting.",
+      "zh": "通过感知上下文的颜色与深度补全，将 RGB-D 图像转换为分层三维照片。"
+    },
+    "categories": [
+      {
+        "stage": "design",
+        "subtopic": "ux"
+      }
+    ],
+    "insights": [
+      "spatial",
+      "ai"
+    ],
+    "links": {
+      "paper": "https://openaccess.thecvf.com/content_CVPR_2020/html/Shih_3D_Photography_Using_Context-Aware_Layered_Depth_Inpainting_CVPR_2020_paper.html",
+      "arxiv": "https://arxiv.org/abs/2004.04727",
+      "project": "https://shihmengli.github.io/3D-Photo-Inpainting/"
+    }
+  },
+  {
+    "id": "ref-109",
+    "refs": [
+      109
+    ],
+    "title": "Agent-based testing of extended reality systems",
+    "authors": "R. Prada, I. Prasetya, F. Kifetew, F. Dignum, T. E. Vos, J. Lander, J. Donnart, A. Kazmierowski, J. Davidson, and P. M. Fernandes",
+    "year": 2020,
+    "venue": "ICST",
+    "summary": {
+      "en": "Combines autonomous cognitive test agents with emotion modeling to assess XR behavior and user experience.",
+      "zh": "结合自主认知测试代理与情感建模，评估 XR 行为和用户体验。"
+    },
+    "categories": [
+      {
+        "stage": "testing",
+        "subtopic": "usability"
+      }
+    ],
+    "insights": [
+      "spatial",
+      "evaluation"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1109/ICST46399.2020.00051",
+      "paper": "https://doi.org/10.1109/ICST46399.2020.00051"
+    }
+  },
+  {
+    "id": "ref-091",
+    "refs": [
+      91
+    ],
+    "title": "An Empirical Analysis of Unity Performance Bugs",
+    "authors": "Nusrat,Fariha",
+    "year": 2020,
+    "venue": "ProQuest Dissertations and Theses",
+    "summary": {
+      "en": "Analyzes Unity performance fixes to connect source-code changes with prefab and asset modifications.",
+      "zh": "分析 Unity 性能修复，揭示源代码修改与预制体及资产修改之间的联系。"
+    },
+    "categories": [
+      {
+        "stage": "development",
+        "subtopic": "performance"
+      },
+      {
+        "stage": "maintenance",
+        "subtopic": "refactoring"
+      }
+    ],
+    "insights": [
+      "maintenance"
+    ],
+    "links": {
+      "paper": "https://www.proquest.com/dissertations-theses/empirical-analysis-unity-performance-bugs/docview/2447297064/se-2"
+    }
+  },
+  {
+    "id": "ref-096",
+    "refs": [
+      96
+    ],
+    "title": "An Exploratory Study of Bugs in Extended Reality Applications on the Web",
+    "authors": "S. Li, Y. Wu, Y. Liu, D. Wang, M. Wen, Y. Tao, Y. Sui, and Y. Liu",
+    "year": 2020,
+    "venue": "ISSRE",
+    "summary": {
+      "en": "Builds a WebXR bug taxonomy covering device incompatibility, interaction handling and application failures.",
+      "zh": "构建 WebXR 缺陷分类，涵盖设备不兼容、交互处理与应用故障。"
+    },
+    "categories": [
+      {
+        "stage": "testing",
+        "subtopic": "bugs"
+      }
+    ],
+    "insights": [
+      "spatial"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1109/ISSRE5003.2020.00025",
+      "paper": "https://doi.org/10.1109/ISSRE5003.2020.00025"
+    }
+  },
+  {
+    "id": "ref-111",
+    "refs": [
+      111
+    ],
+    "title": "ARCHIE: A user-focused framework for testing augmented reality applications in the wild",
+    "authors": "S. M. Lehman, H. Ling, and C. C. Tan",
+    "year": 2020,
+    "venue": "IEEE VR",
+    "summary": {
+      "en": "Connects user feedback with runtime telemetry to diagnose AR performance and usability problems.",
+      "zh": "将用户反馈与运行遥测关联，定位 AR 性能与可用性问题。"
+    },
+    "categories": [
+      {
+        "stage": "testing",
+        "subtopic": "usability"
+      },
+      {
+        "stage": "evaluation",
+        "subtopic": "experience"
+      }
+    ],
+    "insights": [
+      "spatial",
+      "evaluation"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1109/VR46266.2020.00013",
+      "paper": "https://doi.org/10.1109/VR46266.2020.00013"
+    }
+  },
+  {
+    "id": "ref-071",
+    "refs": [
+      71
+    ],
+    "title": "ARKit and ARCore in serve to augmented reality",
+    "authors": "Z. Oufqir, A. El Abderrahmani, and K. Satori",
+    "year": 2020,
+    "venue": "ISCV",
+    "summary": {
+      "en": "Examines ARKit and ARCore as platforms for building augmented reality applications.",
+      "zh": "分析 ARKit 与 ARCore 在增强现实应用开发中的作用。"
+    },
+    "categories": [
+      {
+        "stage": "development",
+        "subtopic": "environments"
+      }
+    ],
+    "insights": [
+      "spatial"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1109/ISCV49265.2020.9204243",
+      "doi": "https://doi.org/10.1109/ISCV49265.2020.9204243"
+    }
+  },
+  {
+    "id": "ref-093",
+    "refs": [
+      93
+    ],
+    "title": "Detecting Video Game-Specific Bad Smells in Unity Projects",
+    "authors": "A. Borrelli, V. Nardone, G. A. Di Lucca, G. Canfora, and M. Di Penta",
+    "year": 2020,
+    "venue": "MSR",
+    "summary": {
+      "en": "Introduces UnityLinter to detect game-specific performance, maintainability and behavioral smells.",
+      "zh": "提出 UnityLinter，检测游戏特有的性能、可维护性与行为异味。"
+    },
+    "categories": [
+      {
+        "stage": "development",
+        "subtopic": "performance"
+      },
+      {
+        "stage": "maintenance",
+        "subtopic": "refactoring"
+      },
+      {
+        "stage": "evaluation",
+        "subtopic": "developers"
+      }
+    ],
+    "insights": [
+      "maintenance",
+      "evaluation"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1145/3379597.3387454",
+      "paper": "https://doi.org/10.1145/3379597.3387454"
+    }
+  },
+  {
+    "id": "ref-065",
+    "refs": [
+      65
+    ],
+    "title": "Effects of steering locomotion and teleporting on cybersickness and presence in HMD-based virtual reality",
+    "authors": "J. Clifton and S. Palmisano",
+    "year": 2020,
+    "venue": "Virtual Reality",
+    "summary": {
+      "en": "Compares steering and teleportation locomotion through cybersickness and presence measurements.",
+      "zh": "通过晕动症与临场感测量比较转向移动和传送移动。"
+    },
+    "categories": [
+      {
+        "stage": "design",
+        "subtopic": "ux"
+      }
+    ],
+    "insights": [
+      "spatial",
+      "evaluation"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1007/s10055-019-00407-8",
+      "doi": "https://doi.org/10.1007/s10055-019-00407-8"
+    }
+  },
+  {
+    "id": "ref-052",
+    "refs": [
+      52
+    ],
+    "title": "Modern Virtual Reality Headsets",
+    "authors": "V. Angelov, E. Petkov, G. Shipkovenski, and T. Kalushkov",
+    "year": 2020,
+    "venue": "HORA",
+    "summary": {
+      "en": "Reviews modern VR headsets and their characteristics for immersive interaction.",
+      "zh": "回顾现代 VR 头显及其沉浸式交互特性。"
+    },
+    "categories": [
+      {
+        "stage": "design",
+        "subtopic": "interaction"
+      }
+    ],
+    "insights": [
+      "spatial"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1109/HORA49412.2020.9152604",
+      "doi": "https://doi.org/10.1109/HORA49412.2020.9152604"
+    }
+  },
+  {
+    "id": "ref-148",
+    "refs": [
+      148
+    ],
+    "title": "OcuLock: Exploring human visual system for authentication in virtual reality head-mounted display",
+    "authors": "S. Luo, A. Nguyen, C. Song, F. Lin, W. Xu, and Z. Yan",
+    "year": 2020,
+    "venue": "NDSS",
+    "summary": {
+      "en": "Uses human visual-system responses for biometric authentication in VR head-mounted displays.",
+      "zh": "利用人类视觉系统响应，在 VR 头戴显示器中实现生物特征认证。"
+    },
+    "categories": [
+      {
+        "stage": "deployment",
+        "subtopic": "privacy"
+      }
+    ],
+    "insights": [
+      "security"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.14722/ndss.2020.24079",
+      "paper": "https://doi.org/10.14722/ndss.2020.24079"
+    }
+  },
+  {
+    "id": "ref-049",
+    "refs": [
+      49
+    ],
+    "title": "VRSketchIn: Exploring the Design Space of Pen and Tablet Interaction for 3D Sketching in Virtual Reality",
+    "authors": "T. Drey, J. Gugenheimer, J. Karlbauer, M. Milo, and E. Rukzio",
+    "year": 2020,
+    "venue": "CHI",
+    "summary": {
+      "en": "Explores pen-and-tablet interaction techniques for 3D sketching in VR.",
+      "zh": "探索在 VR 中使用数字笔与平板进行三维草图绘制的交互技术。"
+    },
+    "categories": [
+      {
+        "stage": "design",
+        "subtopic": "sketching"
+      }
+    ],
+    "insights": [
+      "spatial"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1145/3313831.3376628",
+      "doi": "https://doi.org/10.1145/3313831.3376628"
+    }
+  },
+  {
+    "id": "ref-063",
+    "refs": [
+      63
+    ],
+    "title": "WalkingVibe: Reducing Virtual Reality Sickness and Improving Realism while Walking in VR using Unobtrusive Head-mounted Vibrotactile Feedback",
+    "authors": "Y. Peng, C. Yu, S. Liu, C. Wang, P. Taele, N. Yu, and M. Y. Chen",
+    "year": 2020,
+    "venue": "CHI",
+    "summary": {
+      "en": "Studies head-mounted vibrotactile feedback for reducing sickness and improving walking realism in VR.",
+      "zh": "研究通过头戴式振动触觉反馈缓解 VR 晕动症并改善行走真实感。"
+    },
+    "categories": [
+      {
+        "stage": "design",
+        "subtopic": "ux"
+      }
+    ],
+    "insights": [
+      "spatial",
+      "evaluation"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1145/3313831.3376847",
+      "doi": "https://doi.org/10.1145/3313831.3376847"
+    }
+  },
+  {
+    "id": "ref-030",
+    "refs": [
+      30
+    ],
+    "title": "360proto: Making Interactive Virtual Reality & Augmented Reality Prototypes from Paper",
+    "authors": "M. Nebeling and K. Madier",
+    "year": 2019,
+    "venue": "CHI",
+    "summary": {
+      "en": "Turns paper sketches into interactive VR and AR prototypes for rapid experience validation.",
+      "zh": "将纸面草图转化为可交互的 VR 与 AR 原型，支持快速体验验证。"
+    },
+    "categories": [
+      {
+        "stage": "requirements",
+        "subtopic": "validation"
+      }
+    ],
+    "insights": [
+      "spatial"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1145/3290605.3300826",
+      "doi": "https://doi.org/10.1145/3290605.3300826"
+    }
+  },
+  {
+    "id": "ref-059",
+    "refs": [
+      59
+    ],
+    "title": "Augmented Reality and Virtual Reality in Education. Myth or Reality?",
+    "authors": "N. Elmqaddem",
+    "year": 2019,
+    "venue": "International Journal of Emerging Technologies in Learning",
+    "summary": {
+      "en": "Discusses AR and VR adoption in education and the opportunities for immersive learning.",
+      "zh": "讨论 AR 与 VR 在教育中的应用及沉浸式学习机会。"
+    },
+    "categories": [
+      {
+        "stage": "design",
+        "subtopic": "ux"
+      },
+      {
+        "stage": "related",
+        "subtopic": "surveys"
+      }
+    ],
+    "insights": [
+      "spatial"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.3991/ijet.v14i03.9289",
+      "doi": "https://doi.org/10.3991/ijet.v14i03.9289"
+    }
+  },
+  {
+    "id": "ref-136",
+    "refs": [
+      136
+    ],
+    "title": "Secure Multi-User Content Sharing for Augmented Reality Applications",
+    "authors": "K. Ruth, T. Kohno, and F. Roesner",
+    "year": 2019,
+    "venue": "USENIX Security",
+    "summary": {
+      "en": "Defines secure multi-user AR content sharing with permissions grounded in physical and virtual context.",
+      "zh": "基于物理与虚拟上下文定义权限，实现多用户 AR 内容的安全共享。"
+    },
+    "categories": [
+      {
+        "stage": "deployment",
+        "subtopic": "interface-security"
+      }
+    ],
+    "insights": [
+      "security",
+      "spatial"
+    ],
+    "links": {
+      "paper": "https://www.usenix.org/conference/usenixsecurity19/presentation/ruth"
+    }
+  },
+  {
+    "id": "ref-047",
+    "refs": [
+      47
+    ],
+    "title": "What You Sketch Is What You Get: Quick and Easy Augmented Reality Prototyping with PintAR",
+    "authors": "D. Gasques, J. G. Johnson, T. Sharkey, and N. Weibel",
+    "year": 2019,
+    "venue": "CHI EA",
+    "summary": {
+      "en": "Lets designers sketch with a digital pen and interact with the resulting AR prototypes.",
+      "zh": "支持设计者使用数字笔绘制草图，并与生成的 AR 原型交互。"
+    },
+    "categories": [
+      {
+        "stage": "design",
+        "subtopic": "sketching"
+      }
+    ],
+    "insights": [
+      "spatial"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1145/3290607.3312847",
+      "doi": "https://doi.org/10.1145/3290607.3312847"
+    }
+  },
+  {
+    "id": "ref-110",
+    "refs": [
+      110
+    ],
+    "title": "A virtual agent toolkit for serious games developers",
+    "authors": "S. Mascarenhas, M. Guimarães, R. Prada, J. Dias, P. A. Santos, K. Star, B. Hirsh, E. Spice, and R. Kommeren",
+    "year": 2018,
+    "venue": "IEEE CIG",
+    "summary": {
+      "en": "Provides the FAtiMA toolkit for authoring virtual agents with emotional and social behavior.",
+      "zh": "提供 FAtiMA 工具包，支持具有情感与社会行为的虚拟代理开发。"
+    },
+    "categories": [
+      {
+        "stage": "testing",
+        "subtopic": "usability"
+      }
+    ],
+    "insights": [
+      "spatial",
+      "evaluation"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1109/CIG.2018.8490399",
+      "paper": "https://doi.org/10.1109/CIG.2018.8490399"
+    }
+  },
+  {
+    "id": "ref-099",
+    "refs": [
+      99
+    ],
+    "title": "An automated functional testing approach for virtual reality applications",
+    "authors": "A. C. Correa Souza, F. L. Nunes, and M. E. Delamaro",
+    "year": 2018,
+    "venue": "Software Testing, Verification and Reliability",
+    "summary": {
+      "en": "Generates functional test requirements and data from semiformal specifications of VR behavior.",
+      "zh": "从 VR 行为的半形式化规约生成测试需求与功能测试数据。"
+    },
+    "categories": [
+      {
+        "stage": "testing",
+        "subtopic": "functional"
+      }
+    ],
+    "insights": [
+      "spatial"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1002/stvr.1690",
+      "paper": "https://doi.org/10.1002/stvr.1690"
+    }
+  },
+  {
+    "id": "ref-139",
+    "refs": [
+      139
+    ],
+    "title": "Forensic Analysis of Immersive Virtual Reality Social Applications: A Primary Account",
+    "authors": "A. Yarramreddy, P. Gromkowski, and I. Baggili",
+    "year": 2018,
+    "venue": "IEEE Security and Privacy Workshops",
+    "summary": {
+      "en": "Examines forensic artifacts of immersive social VR applications to reconstruct user activity.",
+      "zh": "检查沉浸式社交 VR 应用的取证工件，重建用户活动。"
+    },
+    "categories": [
+      {
+        "stage": "deployment",
+        "subtopic": "empirical"
+      }
+    ],
+    "insights": [
+      "security"
+    ],
+    "links": {
+      "doi": "https://doi.org/10.1109/SPW.2018.00034",
+      "paper": "https://doi.org/10.1109/SPW.2018.00034"
+    }
+  },
+  {
+    "id": "ref-069",
+    "refs": [
+      69
+    ],
+    "title": "The State of Practice on Virtual Reality (VR) Applications: An Exploratory Study on Github and Stack Overflow",
+    "authors": "N. Ghrairi, S. Kpodjedo, A. Barrak, F. Petrillo, and F. Khomh",
+    "year": 2018,
+    "venue": "QRS",
+    "summary": {
+      "en": "Studies VR application development practices through GitHub projects and Stack Overflow discussions.",
+      "zh": "通过 GitHub 项目与 Stack Overflow 讨论研究 VR 应用开发实践。"
+    },
+    "categories": [
+      {
+        "stage": "development",
+        "subtopic": "environments"
+      }
+    ],
+    "insights": [
+      "maintenance"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1109/QRS.2018.00048",
+      "doi": "https://doi.org/10.1109/QRS.2018.00048"
+    }
+  },
+  {
+    "id": "ref-026",
+    "refs": [
+      26
+    ],
+    "title": "UMI3D: A Unity3D Toolbox to Support CSCW Systems Properties in Generic 3D User Interfaces",
+    "authors": "J. Casarin, N. Pacqueriaud, and D. Bechmann",
+    "year": 2018,
+    "venue": "ACM PACMHCI (CSCW)",
+    "summary": {
+      "en": "Offers a Unity toolbox for generic 3D interfaces that support collaborative work.",
+      "zh": "提供 Unity 工具箱，支持面向协同工作的通用三维界面。"
+    },
+    "categories": [
+      {
+        "stage": "requirements",
+        "subtopic": "analysis"
+      }
+    ],
+    "insights": [
+      "spatial"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1145/3274298",
+      "doi": "https://doi.org/10.1145/3274298"
+    }
+  },
+  {
+    "id": "ref-061",
+    "refs": [
+      61
+    ],
+    "title": "The virtual reality head-mounted display Oculus Rift induces motion sickness and is sexist in its effects",
+    "authors": "J. Munafo, M. Diedrick, and T. A. Stoffregen",
+    "year": 2017,
+    "venue": "Experimental Brain Research",
+    "summary": {
+      "en": "Measures motion sickness and postural responses during Oculus Rift gameplay.",
+      "zh": "测量 Oculus Rift 游戏过程中的晕动症与姿态反应。"
+    },
+    "categories": [
+      {
+        "stage": "design",
+        "subtopic": "ux"
+      }
+    ],
+    "insights": [
+      "spatial",
+      "evaluation"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1007/s00221-016-4846-7",
+      "doi": "https://doi.org/10.1007/s00221-016-4846-7"
+    }
+  },
+  {
+    "id": "ref-019",
+    "refs": [
+      19
+    ],
+    "title": "Virtual reality system for training in automotive mechanics",
+    "authors": "W. X. Quevedo, J. S. Sánchez, O. Arteaga, M. Álvarez V, V. D. Zambrano, C. R. Sánchez, and V. H. Andaluz",
+    "year": 2017,
+    "venue": "AVR",
+    "summary": {
+      "en": "Builds a VR automotive mechanics training system around practical maintenance tasks.",
+      "zh": "围绕实际维修任务构建汽车机械技能 VR 训练系统。"
+    },
+    "categories": [
+      {
+        "stage": "requirements",
+        "subtopic": "elicitation"
+      }
+    ],
+    "insights": [
+      "spatial"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1007/978-3-319-60922-5_14",
+      "doi": "https://doi.org/10.1007/978-3-319-60922-5_14"
+    }
+  },
+  {
+    "id": "ref-008",
+    "refs": [
+      8
+    ],
+    "title": "Review on cybersickness in applications and visual displays",
+    "authors": "L. Rebenitsch and C. Owen",
+    "year": 2016,
+    "venue": "Virtual Reality",
+    "summary": {
+      "en": "Reviews cybersickness factors, measurement approaches and mitigation across immersive applications and visual displays.",
+      "zh": "梳理沉浸式应用与视觉显示中的晕动症因素、测量方法和缓解策略。"
+    },
+    "categories": [
+      {
+        "stage": "design",
+        "subtopic": "ux"
+      },
+      {
+        "stage": "related",
+        "subtopic": "surveys"
+      }
+    ],
+    "insights": [
+      "spatial",
+      "evaluation"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1007/s10055-016-0285-9",
+      "doi": "https://doi.org/10.1007/s10055-016-0285-9"
+    }
+  },
+  {
+    "id": "ref-046",
+    "refs": [
+      46
+    ],
+    "title": "Sketching up the World: In Situ Authoring for Mobile Augmented Reality",
+    "authors": "T. Langlotz, S. Mooslechner, S. Zollmann, C. Degendorfer, G. Reitmayr, and D. Schmalstieg",
+    "year": 2012,
+    "venue": "Personal and Ubiquitous Computing",
+    "summary": {
+      "en": "Enables smartphone users to sketch and create mobile AR content in its physical context.",
+      "zh": "支持用户通过手机在真实环境中绘制并创建移动 AR 内容。"
+    },
+    "categories": [
+      {
+        "stage": "design",
+        "subtopic": "sketching"
+      }
+    ],
+    "insights": [
+      "spatial"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1007/s00779-011-0430-0",
+      "doi": "https://doi.org/10.1007/s00779-011-0430-0"
+    }
+  },
+  {
+    "id": "ref-045",
+    "refs": [
+      45
+    ],
+    "title": "In-Place Sketching for Content Authoring in Augmented Reality Games",
+    "authors": "N. Hagbi, R. Grasset, O. Bergig, M. Billinghurst, and J. El-Sana",
+    "year": 2010,
+    "venue": "IEEE VR",
+    "summary": {
+      "en": "Explores in-place sketching as a visual language for authoring AR game content.",
+      "zh": "探索将原位草图作为创作 AR 游戏内容的视觉语言。"
+    },
+    "categories": [
+      {
+        "stage": "design",
+        "subtopic": "sketching"
+      }
+    ],
+    "insights": [
+      "spatial"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1109/VR.2010.5444806",
+      "doi": "https://doi.org/10.1109/VR.2010.5444806"
+    }
+  },
+  {
+    "id": "ref-064",
+    "refs": [
+      64
+    ],
+    "title": "Health and safety implications of virtual reality: a review of empirical evidence",
+    "authors": "S. Nichols and H. Patel",
+    "year": 2002,
+    "venue": "Applied Ergonomics",
+    "summary": {
+      "en": "Reviews empirical evidence on health and safety effects associated with VR use.",
+      "zh": "回顾 VR 使用对健康与安全影响的实证证据。"
+    },
+    "categories": [
+      {
+        "stage": "design",
+        "subtopic": "ux"
+      }
+    ],
+    "insights": [
+      "spatial",
+      "evaluation"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1016/S0003-6870(02)00020-0",
+      "doi": "https://doi.org/10.1016/S0003-6870(02)00020-0"
+    }
+  },
+  {
+    "id": "ref-062",
+    "refs": [
+      62
+    ],
+    "title": "A discussion of cybersickness in virtual environments",
+    "authors": "J. J. LaViola Jr",
+    "year": 2000,
+    "venue": "ACM SIGCHI Bulletin",
+    "summary": {
+      "en": "Discusses causes, symptoms and mitigation approaches for cybersickness in virtual environments.",
+      "zh": "讨论虚拟环境中晕动症的原因、症状与缓解方法。"
+    },
+    "categories": [
+      {
+        "stage": "design",
+        "subtopic": "ux"
+      }
+    ],
+    "insights": [
+      "spatial",
+      "evaluation"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1145/333329.333344",
+      "doi": "https://doi.org/10.1145/333329.333344"
+    }
+  },
+  {
+    "id": "ref-054",
+    "refs": [
+      54
+    ],
+    "title": "Virtual reality on a WIM: interactive worlds in miniature",
+    "authors": "R. Stoakley, M. J. Conway, and R. Pausch",
+    "year": 1995,
+    "venue": "CHI",
+    "summary": {
+      "en": "Introduces worlds-in-miniature for viewing and manipulating a virtual environment through a small-scale representation.",
+      "zh": "提出微缩世界交互，通过小比例表示查看和操纵虚拟环境。"
+    },
+    "categories": [
+      {
+        "stage": "design",
+        "subtopic": "interaction"
+      }
+    ],
+    "insights": [
+      "spatial"
+    ],
+    "links": {
+      "paper": "https://doi.org/10.1145/223904.223938",
+      "doi": "https://doi.org/10.1145/223904.223938"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "name": "XR Software Engineering Survey",
+  "title": "Software Engineering Practice in the Virtual Reality/Augmented Reality Software Life Cycle: A Systematic Survey",
+  "repository": "https://github.com/TsingPig/XR-Software-Engineering-Survey",
+  "website": "https://tsingpig.github.io/XR-Software-Engineering-Survey/",
+  "base_path": "/XR-Software-Engineering-Survey/",
+  "paper": "https://arxiv.org/abs/2611.18567",
+  "pdf": "https://arxiv.org/pdf/2611.18567",
+  "year": 2026,
+  "arxiv": "2611.18567",
+  "authors": [
+    {"name":"Hanyang Guo","affiliations":[1,2]},
+    {"name":"Jingwen Wu","affiliations":[2]},
+    {"name":"Zhengyang Zhu","affiliations":[1,3],"url":"https://tsingpig.github.io/"},
+    {"name":"Gengyang Xu","affiliations":[4]},
+    {"name":"Hong-Ning Dai","affiliations":[2]},
+    {"name":"Xiapu Luo","affiliations":[5]},
+    {"name":"Zibin Zheng","affiliations":[1]}
+  ],
+  "affiliations": [
+    "Sun Yat-sen University",
+    "Hong Kong Baptist University",
+    "Pengcheng Laboratory",
+    "The Hong Kong University of Science and Technology",
+    "The Hong Kong Polytechnic University"
+  ],
+  "description": {
+    "en":"A systematic survey of software engineering across the VR/AR software life cycle, with curated papers, research insights and development resources.",
+    "zh":"系统梳理 VR/AR 软件全生命周期的软件工程实践，汇集分类论文、研究洞察与开发资源。"
+  },
+  "bibtex": "@article{guo2026xrsoftware,\n  title={Software Engineering Practice in the Virtual Reality/Augmented Reality Software Life Cycle: A Systematic Survey},\n  author={Guo, Hanyang and Wu, Jingwen and Zhu, Zhengyang and Xu, Gengyang and Dai, Hong-Ning and Luo, Xiapu and Zheng, Zibin},\n  journal={arXiv preprint arXiv:2611.18567},\n  year={2026},\n  url={https://arxiv.org/abs/2611.18567}\n}"
+}

@@ -1,0 +1,21 @@
+[中文](zh/ai.md) · [XR Software Engineering Survey](../README.md)
+
+# AI assistance moves into the engine.
+
+Assistance spans scenes, assets, interaction logic and engine settings, making project context central to XR development.
+
+[Paper library](https://tsingpig.github.io/XR-Software-Engineering-Survey/papers/?topic=ai) · [arXiv](https://arxiv.org/abs/2611.18567)
+
+| Year | Venue | Title | Key insight | Links |
+| --- | --- | --- | --- | --- |
+| 2026 | Automated Software Engineering | [Harnessing large language models for virtual reality exploration testing: a case study](https://doi.org/10.1007/s10515-025-00535-3) | Evaluates LLM entity detection, feature descriptions and spatial reasoning for black-box VR exploration testing. | [Paper](https://doi.org/10.1007/s10515-025-00535-3) · [Code](https://github.com/qzydustin/LLM4VR) |
+| 2026 | ICSE | [XRFix: Exploring Performance Bug Repair of Extended Reality Applications with Large Language Models](https://doi.org/10.1145/3744916.3773120) | Introduces XRFix to generate and validate performance-bug repairs for XR applications with LLMs. | [Paper](https://doi.org/10.1145/3744916.3773120) · [arXiv](https://arxiv.org/abs/2608.21718) · [Code](https://github.com/wwwjwww/XRFix) |
+| 2025 | CHI | [CreepyCoCreator? Investigating AI Representation Modes for 3D Object Co-Creation in Virtual Reality](https://doi.org/10.1145/3706598.3713720) | Studies how embodied AI representation shapes engagement, ownership and partnership in VR object co-creation. | [Paper](https://doi.org/10.1145/3706598.3713720) |
+| 2025 | CHI | [Dreamcrafter: Immersive Editing of 3D Radiance Fields Through Flexible, Generative Inputs and Outputs](https://doi.org/10.1145/3706598.3714312) | Unifies direct manipulation and generative inputs for iterative editing of immersive 3D radiance fields. | [Paper](https://doi.org/10.1145/3706598.3714312) · [arXiv](https://arxiv.org/abs/2512.20129) · [Project](https://dream-crafter.github.io/) |
+| 2025 | ISSTA | [Extended Reality Cybersickness Assessment via User Review Analysis](https://doi.org/10.1145/3728933) | Introduces XRCare to assess cybersickness through LLM-driven analysis of XR app reviews. | [Paper](https://doi.org/10.1145/3728933) |
+| 2025 | UIST | [GaussianShopVR: Facilitating Immersive 3D Authoring Using Gaussian Splatting in VR](https://doi.org/10.1145/3746059.3747803) | Supports immersive editing and authoring of 3D Gaussian splatting content in VR. | [Paper](https://doi.org/10.1145/3746059.3747803) |
+| 2025 | UIST | [ImaginateAR: AI-Assisted In-Situ Authoring in Augmented Reality](https://doi.org/10.1145/3746059.3747635) | Combines scene understanding, generated 3D assets and speech interaction for in-situ AR authoring. | [Paper](https://doi.org/10.1145/3746059.3747635) · [arXiv](https://arxiv.org/abs/2504.21360) |
+| 2025 | UIST Adjunct | [RealityCrafter: User-guided Editable 3D Scene Generation from a Single Image in Mixed Reality](https://doi.org/10.1145/3746058.3758405) | Generates editable mixed reality scenes from one image with user guidance. | [Paper](https://doi.org/10.1145/3746058.3758405) |
+| 2024 | arXiv | [Grounded GUI Understanding for Vision Based Spatial Intelligent Agent: Exemplified by Virtual Reality Apps](https://arxiv.org/abs/2409.10811) | Introduces Orienter to ground context-sensitive interactable GUI elements in VR scenes with multimodal models. | [Paper](https://arxiv.org/abs/2409.10811) |
+| 2024 | ASE Workshops | [Utilizing Generative AI for VR Exploration Testing: A Case Study](https://doi.org/10.1145/3691621.3694955) | Studies generative AI for identifying test entities and spatial features from VR field-of-view images. | [Paper](https://doi.org/10.1145/3691621.3694955) |
+| 2020 | CVPR | [3D Photography Using Context-Aware Layered Depth Inpainting](https://openaccess.thecvf.com/content_CVPR_2020/html/Shih_3D_Photography_Using_Context-Aware_Layered_Depth_Inpainting_CVPR_2020_paper.html) | Converts RGB-D images into layered 3D photos through context-aware color and depth inpainting. | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Shih_3D_Photography_Using_Context-Aware_Layered_Depth_Inpainting_CVPR_2020_paper.html) · [arXiv](https://arxiv.org/abs/2004.04727) · [Project](https://shihmengli.github.io/3D-Photo-Inpainting/) |

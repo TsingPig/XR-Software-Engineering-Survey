@@ -1,0 +1,23 @@
+[中文](zh/maintenance.md) · [XR Software Engineering Survey](../README.md)
+
+# Maintenance crosses artifact boundaries.
+
+Performance problems and bad smells often require coordinated changes to scripts, 3D assets and engine configuration.
+
+[Paper library](https://tsingpig.github.io/XR-Software-Engineering-Survey/papers/?topic=maintenance) · [arXiv](https://arxiv.org/abs/2611.18567)
+
+| Year | Venue | Title | Key insight | Links |
+| --- | --- | --- | --- | --- |
+| 2026 | ICSE | [XRFix: Exploring Performance Bug Repair of Extended Reality Applications with Large Language Models](https://doi.org/10.1145/3744916.3773120) | Introduces XRFix to generate and validate performance-bug repairs for XR applications with LLMs. | [Paper](https://doi.org/10.1145/3744916.3773120) · [arXiv](https://arxiv.org/abs/2608.21718) · [Code](https://github.com/wwwjwww/XRFix) |
+| 2025 | IDE @ ICSE | [Code Refactoring in Virtual Reality](https://doi.org/10.1109/IDE66625.2025.00006) | Explores code refactoring inside VR through spatial program visualization and controller interactions. | [Paper](https://doi.org/10.1109/IDE66625.2025.00006) |
+| 2025 | CHI | [CreepyCoCreator? Investigating AI Representation Modes for 3D Object Co-Creation in Virtual Reality](https://doi.org/10.1145/3706598.3713720) | Studies how embodied AI representation shapes engagement, ownership and partnership in VR object co-creation. | [Paper](https://doi.org/10.1145/3706598.3713720) |
+| 2025 | CHI | [Dreamcrafter: Immersive Editing of 3D Radiance Fields Through Flexible, Generative Inputs and Outputs](https://doi.org/10.1145/3706598.3714312) | Unifies direct manipulation and generative inputs for iterative editing of immersive 3D radiance fields. | [Paper](https://doi.org/10.1145/3706598.3714312) · [arXiv](https://arxiv.org/abs/2512.20129) · [Project](https://dream-crafter.github.io/) |
+| 2025 | CCS | [Virtual Reality, Real Problems: A Longitudinal Security Analysis of VR Firmware](https://doi.org/10.1145/3719027.3765102) | Tracks VR firmware evolution to identify security weaknesses and the persistence of vulnerable components. | [Paper](https://doi.org/10.1145/3719027.3765102) |
+| 2025 | ASE | [VRTestSniffer: Test Smell Detector for Virtual Reality (VR) Software Projects](https://doi.org/10.1109/ASE63991.2025.00163) | Detects VR-specific test smells using syntax, control-flow and data-flow analysis of Unity tests. | [Paper](https://doi.org/10.1109/ASE63991.2025.00163) · [Code](https://github.com/smilevo/VRTestSniffer) |
+| 2022 | arXiv | [Analyzing Performance Issues of Virtual Reality Applications](https://arxiv.org/abs/2211.02013) | Derives Unreal Engine performance bug patterns and detects performance bugs in configuration files and C++ code. | [Paper](https://arxiv.org/abs/2211.02013) |
+| 2021 | ICPC | [Automatic Extraction of Code Dependency in Virtual Reality Software](https://doi.org/10.1109/ICPC52881.2021.00043) | Extracts code dependencies from VR software to support program understanding. | [Paper](https://doi.org/10.1109/ICPC52881.2021.00043) |
+| 2021 | CHI | [Current practices, challenges, and design implications for collaborative AR/VR application development](https://doi.org/10.1145/3411764.3445335) | Interviews AR/VR professionals to identify development roles, collaboration challenges and tool needs. | [Paper](https://doi.org/10.1145/3411764.3445335) |
+| 2021 | ICSE | [How Developers Optimize Virtual Reality Applications: A Study of Optimization Commits in Open Source Unity Projects](https://doi.org/10.1109/ICSE43902.2021.00052) | Classifies real-world Unity VR optimizations across graphics, rendering and memory management. | [Paper](https://doi.org/10.1109/ICSE43902.2021.00052) |
+| 2020 | ProQuest Dissertations and Theses | [An Empirical Analysis of Unity Performance Bugs](https://www.proquest.com/dissertations-theses/empirical-analysis-unity-performance-bugs/docview/2447297064/se-2) | Analyzes Unity performance fixes to connect source-code changes with prefab and asset modifications. | [Paper](https://www.proquest.com/dissertations-theses/empirical-analysis-unity-performance-bugs/docview/2447297064/se-2) |
+| 2020 | MSR | [Detecting Video Game-Specific Bad Smells in Unity Projects](https://doi.org/10.1145/3379597.3387454) | Introduces UnityLinter to detect game-specific performance, maintainability and behavioral smells. | [Paper](https://doi.org/10.1145/3379597.3387454) |
+| 2018 | QRS | [The State of Practice on Virtual Reality (VR) Applications: An Exploratory Study on Github and Stack Overflow](https://doi.org/10.1109/QRS.2018.00048) | Studies VR application development practices through GitHub projects and Stack Overflow discussions. | [Paper](https://doi.org/10.1109/QRS.2018.00048) |
