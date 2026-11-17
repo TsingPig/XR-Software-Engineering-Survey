@@ -347,12 +347,10 @@ def visual(topic: dict, lang: str) -> str:
 def landing(papers: list[dict], lang: str) -> str:
     labels = LABELS[lang]
     library = local_url(lang, True)
-    hero_source = f"{BASE}/assets/engine-ai.webp"
-    hero_description = escape(TOPIC_MAP["ai"]["figure_alt"][lang])
-    hero_caption = (
-        "From code-centric assistants to project-aware XR engines."
-        if lang == "en" else "从代码中心助手到感知项目上下文的 XR 引擎。"
-    )
+    overview = PROJECT["overview"]
+    hero_source = f"{BASE}/assets/{overview['image']}"
+    hero_alt = escape(overview["alt"][lang])
+    hero_caption = overview["caption"][lang]
     hero = dedent(f'''
         <section class="hero">
           <div class="container">
@@ -368,11 +366,11 @@ def landing(papers: list[dict], lang: str) -> str:
             </div>
             <figure class="hero-figure">
               <a href="{hero_source}"
-                 aria-label="{labels['open_figure']} · {hero_description}">
-                <img src="{hero_source}" width="2000" height="1034"
-                     alt="{hero_description}" fetchpriority="high">
+                 aria-label="{labels['open_figure']} · {hero_alt}">
+                <img src="{hero_source}" width="{overview['width']}" height="{overview['height']}"
+                     alt="{hero_alt}" fetchpriority="high">
               </a>
-              <figcaption>{labels['figure']} 13 · {hero_caption}</figcaption>
+              <figcaption>{labels['figure']} {overview['number']} · {hero_caption}</figcaption>
             </figure>
             <div class="stats">
               <div class="stat"><strong>{len(papers)}</strong><span>{labels['paper_count']}</span></div>
@@ -578,7 +576,7 @@ def render_page(papers: list[dict], resources: list[dict], lang: str, library: b
         canonical=canonical,
         english_url=absolute_url("en", library),
         chinese_url=absolute_url("zh", library),
-        social_image=PROJECT["website"] + "assets/engine-ai.webp",
+        social_image=PROJECT["website"] + "assets/" + PROJECT["overview"]["image"],
         base=BASE,
         structured_data=json.dumps(structured_data, ensure_ascii=False).replace("<", "\\u003c"),
         skip_label=LABELS[lang]["skip"],
@@ -606,10 +604,13 @@ def markdown_table(papers: list[dict], lang: str) -> str:
 def readme(papers: list[dict], resources: list[dict], lang: str) -> str:
     labels = LABELS[lang]
     website = absolute_url(lang)
-    lines = ["[English](README.md) · [中文](README.zh-CN.md)", "", "# XR Software Engineering Survey", "", PROJECT["title"], "", PROJECT["description"][lang], "", f"[arXiv]({PROJECT['paper']}) · [{labels['website']}]({website}) · [{labels['library']}]({absolute_url(lang, True)})", "", ", ".join(person["name"] for person in PROJECT["authors"]), "", "![From code-centric AI assistants to XR engine-centric AI](site/assets/engine-ai.webp)", "", f"**{len(papers)} {labels['paper_count']} · 7 {labels['stage_count']} · 5 {labels['topic_count']}**", "", f"## {labels['research_themes']}", ""]
+    overview = PROJECT["overview"]
+    lines = ["[English](README.md) · [中文](README.zh-CN.md)", "", "# XR Software Engineering Survey", "", PROJECT["title"], "", PROJECT["description"][lang], "", f"[arXiv]({PROJECT['paper']}) · [{labels['website']}]({website}) · [{labels['library']}]({absolute_url(lang, True)})", "", ", ".join(person["name"] for person in PROJECT["authors"]), "", f"![{overview['alt'][lang]}](site/assets/{overview['image']})", "", f"**{len(papers)} {labels['paper_count']} · 7 {labels['stage_count']} · 5 {labels['topic_count']}**", "", f"## {labels['research_themes']}", ""]
     for topic in INSIGHTS:
         path = f"lists/{'zh/' if lang == 'zh' else ''}{topic['id']}.md"
         lines.extend([f"### [{topic['title'][lang]}]({path})", "", topic["description"][lang], ""])
+        if topic["id"] == "ai":
+            lines.extend([f"![{topic['figure_alt'][lang]}](site/assets/{topic['figure']})", ""])
         paper_map = {paper["id"]: paper for paper in papers}
         for key in topic["featured"]:
             paper = paper_map[key]

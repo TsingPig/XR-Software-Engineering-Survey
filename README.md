@@ -10,7 +10,7 @@ A systematic survey of software engineering across the VR/AR software life cycle
 
 Hanyang Guo, Jingwen Wu, Zhengyang Zhu, Gengyang Xu, Hong-Ning Dai, Xiapu Luo, Zibin Zheng
 
-![From code-centric AI assistants to XR engine-centric AI](site/assets/engine-ai.webp)
+![Overview of the seven-stage VR/AR software life cycle](site/assets/overview.webp)
 
 **117 papers · 7 life-cycle stages · 5 research themes**
 
@@ -26,6 +26,8 @@ Six degrees of freedom, embodied input and comfort connect interface design to s
 ### [AI assistance moves into the engine.](lists/ai.md)
 
 Assistance spans scenes, assets, interaction logic and engine settings, making project context central to XR development.
+
+![From code-centric AI to project-aware XR engine assistance, Figure 13 of the survey](site/assets/engine-ai.webp)
 
 - [GaussianShopVR: Facilitating Immersive 3D Authoring Using Gaussian Splatting in VR](https://doi.org/10.1145/3746059.3747803)
 - [ImaginateAR: AI-Assisted In-Situ Authoring in Augmented Reality](https://doi.org/10.1145/3746059.3747635)

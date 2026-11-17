@@ -10,7 +10,7 @@ Software Engineering Practice in the Virtual Reality/Augmented Reality Software 
 
 Hanyang Guo, Jingwen Wu, Zhengyang Zhu, Gengyang Xu, Hong-Ning Dai, Xiapu Luo, Zibin Zheng
 
-![From code-centric AI assistants to XR engine-centric AI](site/assets/engine-ai.webp)
+![VR/AR 软件生命周期的七阶段总览](site/assets/overview.webp)
 
 **117 篇研究论文 · 7 个生命周期阶段 · 5 个研究专题**
 
@@ -26,6 +26,8 @@ Hanyang Guo, Jingwen Wu, Zhengyang Zhu, Gengyang Xu, Hong-Ning Dai, Xiapu Luo, Z
 ### [AI 辅助深入引擎与项目上下文。](lists/zh/ai.md)
 
 辅助范围延伸至场景、资产、交互逻辑和引擎设置，项目上下文成为 XR 开发的重要组成。
+
+![综述图 13，从代码中心 AI 到感知项目上下文的 XR 引擎辅助](site/assets/engine-ai.webp)
 
 - [GaussianShopVR: Facilitating Immersive 3D Authoring Using Gaussian Splatting in VR](https://doi.org/10.1145/3746059.3747803)
 - [ImaginateAR: AI-Assisted In-Situ Authoring in Augmented Reality](https://doi.org/10.1145/3746059.3747635)

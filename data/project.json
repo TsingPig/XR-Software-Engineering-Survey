@@ -28,5 +28,19 @@
     "en":"A systematic survey of software engineering across the VR/AR software life cycle, with curated papers, research insights and development resources.",
     "zh":"系统梳理 VR/AR 软件全生命周期的软件工程实践，汇集分类论文、研究洞察与开发资源。"
   },
-  "bibtex": "@article{guo2026xrsoftware,\n  title={Software Engineering Practice in the Virtual Reality/Augmented Reality Software Life Cycle: A Systematic Survey},\n  author={Guo, Hanyang and Wu, Jingwen and Zhu, Zhengyang and Xu, Gengyang and Dai, Hong-Ning and Luo, Xiapu and Zheng, Zibin},\n  journal={arXiv preprint arXiv:2611.18567},\n  year={2026},\n  url={https://arxiv.org/abs/2611.18567}\n}"
+  "bibtex": "@article{guo2026xrsoftware,\n  title={Software Engineering Practice in the Virtual Reality/Augmented Reality Software Life Cycle: A Systematic Survey},\n  author={Guo, Hanyang and Wu, Jingwen and Zhu, Zhengyang and Xu, Gengyang and Dai, Hong-Ning and Luo, Xiapu and Zheng, Zibin},\n  journal={arXiv preprint arXiv:2611.18567},\n  year={2026},\n  url={https://arxiv.org/abs/2611.18567}\n}",
+  "overview": {
+    "image": "overview.webp",
+    "number": 2,
+    "width": 2000,
+    "height": 884,
+    "alt": {
+      "en": "Overview of the seven-stage VR/AR software life cycle",
+      "zh": "VR/AR 软件生命周期的七阶段总览"
+    },
+    "caption": {
+      "en": "VR/AR software life cycle.",
+      "zh": "VR/AR 软件生命周期总览。"
+    }
+  }
 }
