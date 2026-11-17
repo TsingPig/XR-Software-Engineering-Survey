@@ -1,7 +1,9 @@
 cff-version: 1.2.0
 message: "Cite the survey."
-type: article
-title: "Software Engineering Practice in the Virtual Reality/Augmented Reality Software Life Cycle: A Systematic Survey"
+type: dataset
+title: "XR Software Engineering Survey"
+url: "https://tsingpig.github.io/XR-Software-Engineering-Survey/"
+repository-code: "https://github.com/TsingPig/XR-Software-Engineering-Survey"
 authors:
   - family-names: "Guo"
     given-names: "Hanyang"
@@ -17,8 +19,24 @@ authors:
     given-names: "Xiapu"
   - family-names: "Zheng"
     given-names: "Zibin"
-year: 2026
-url: "https://arxiv.org/abs/2611.18567"
-identifiers:
-  - type: other
-    value: "arXiv:2611.18567"
+preferred-citation:
+  type: article
+  title: "Software Engineering Practice in the Virtual Reality/Augmented Reality Software Life Cycle: A Systematic Survey"
+  journal: "arXiv preprint arXiv:2611.18567"
+  year: 2026
+  url: "https://arxiv.org/abs/2611.18567"
+  authors:
+    - family-names: "Guo"
+      given-names: "Hanyang"
+    - family-names: "Wu"
+      given-names: "Jingwen"
+    - family-names: "Zhu"
+      given-names: "Zhengyang"
+    - family-names: "Xu"
+      given-names: "Gengyang"
+    - family-names: "Dai"
+      given-names: "Hong-Ning"
+    - family-names: "Luo"
+      given-names: "Xiapu"
+    - family-names: "Zheng"
+      given-names: "Zibin"

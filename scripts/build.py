@@ -648,11 +648,31 @@ def topic_markdown(topic: dict, papers: list[dict], lang: str) -> str:
 
 
 def citation_file() -> str:
-    lines = ['cff-version: 1.2.0', 'message: "Cite the survey."', 'type: article', f'title: "{PROJECT["title"]}"', 'authors:']
+    lines = [
+        'cff-version: 1.2.0',
+        'message: "Cite the survey."',
+        'type: dataset',
+        f'title: "{PROJECT["name"]}"',
+        f'url: "{PROJECT["website"]}"',
+        f'repository-code: "{REPO}"',
+        'authors:',
+    ]
     for person in PROJECT["authors"]:
         given, family = person["name"].rsplit(" ", 1)
         lines.extend([f'  - family-names: "{family}"', f'    given-names: "{given}"'])
-    lines.extend([f'year: {PROJECT["year"]}', f'url: "{PROJECT["paper"]}"', 'identifiers:', f'  - type: other', f'    value: "arXiv:{PROJECT["arxiv"]}"', ''])
+    lines.extend([
+        'preferred-citation:',
+        '  type: article',
+        f'  title: "{PROJECT["title"]}"',
+        f'  journal: "arXiv preprint arXiv:{PROJECT["arxiv"]}"',
+        f'  year: {PROJECT["year"]}',
+        f'  url: "{PROJECT["paper"]}"',
+        '  authors:',
+    ])
+    for person in PROJECT["authors"]:
+        given, family = person["name"].rsplit(" ", 1)
+        lines.extend([f'    - family-names: "{family}"', f'      given-names: "{given}"'])
+    lines.append("")
     return "\n".join(lines)
 
 
